@@ -1,5 +1,13 @@
 # HSK Companion v1.2.1 — Optional Donations & GitHub Beta
 
+## Download the Android app — free beta
+
+**[⬇ Download HSK Companion v1.2.1 APK](https://github.com/ElbekJK/hsk-companion/releases/download/v1.2.1-beta/HSK_Companion_v1.2.1_release.apk)**
+
+[View the release notes and SHA-256 checksum](https://github.com/ElbekJK/hsk-companion/releases/tag/v1.2.1-beta) · [See all releases](https://github.com/ElbekJK/hsk-companion/releases)
+
+On your Android phone, download the APK and approve **Install unknown apps** for your browser or file manager when prompted. This beta uses Android's installed Mandarin TTS; the Azure-generated offline voice library is not included yet. **The app is free, and donations are optional.**
+
 The **full app remains free**. Voluntary support can be offered through an external HTTPS donation page, configured by the maintainer. No account, checkout, SDK, or monetized learning feature is added. The donation button in **Settings** is absent until a real URL is configured.
 
 To publish source and a signed beta APK through GitHub Releases, follow **[GITHUB_PUBLISHING_GUIDE.md](GITHUB_PUBLISHING_GUIDE.md)** or use the provided dry-run and publish scripts. This source ZIP includes neither your Azure speech clips nor any API keys or signing credentials.
