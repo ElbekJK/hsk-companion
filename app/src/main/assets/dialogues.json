@@ -1,0 +1,562 @@
+[
+  {
+    "id": "d01",
+    "level": 1,
+    "title": "Meeting someone",
+    "a": "你好！",
+    "b": "你好！你叫什么名字？",
+    "pa": "Nǐ hǎo!",
+    "pb": "Nǐ hǎo! Nǐ jiào shénme míngzi?",
+    "ea": "Hello!",
+    "eb": "Hello! What's your name?",
+    "question": "What does the second person ask?",
+    "choices": [
+      "Your name",
+      "Your age",
+      "Your job",
+      "Your address"
+    ],
+    "answer": 0,
+    "feedback": "你叫什么名字？ asks what someone's name is."
+  },
+  {
+    "id": "d02",
+    "level": 1,
+    "title": "At school",
+    "a": "你在哪儿？",
+    "b": "我在学校。",
+    "pa": "Nǐ zài nǎr?",
+    "pb": "Wǒ zài xuéxiào.",
+    "ea": "Where are you?",
+    "eb": "I'm at school.",
+    "question": "Where is the second person?",
+    "choices": [
+      "At home",
+      "At school",
+      "At a restaurant",
+      "At the store"
+    ],
+    "answer": 1,
+    "feedback": "我在学校 means I am at school."
+  },
+  {
+    "id": "d03",
+    "level": 1,
+    "title": "Tea or water?",
+    "a": "你喝茶吗？",
+    "b": "不，我喝水。",
+    "pa": "Nǐ hē chá ma?",
+    "pb": "Bù, wǒ hē shuǐ.",
+    "ea": "Do you drink tea?",
+    "eb": "No, I drink water.",
+    "question": "What does the second person drink?",
+    "choices": [
+      "Tea",
+      "Coffee",
+      "Water",
+      "Milk"
+    ],
+    "answer": 2,
+    "feedback": "不，我喝水 means No, I drink water."
+  },
+  {
+    "id": "d04",
+    "level": 1,
+    "title": "Family",
+    "a": "这是谁？",
+    "b": "这是我妈妈。",
+    "pa": "Zhè shì shéi?",
+    "pb": "Zhè shì wǒ māma.",
+    "ea": "Who is this?",
+    "eb": "This is my mother.",
+    "question": "Who is the second person talking about?",
+    "choices": [
+      "A friend",
+      "A teacher",
+      "A sister",
+      "Their mother"
+    ],
+    "answer": 3,
+    "feedback": "我妈妈 means my mother."
+  },
+  {
+    "id": "d05",
+    "level": 1,
+    "title": "What time?",
+    "a": "现在几点？",
+    "b": "现在三点。",
+    "pa": "Xiànzài jǐ diǎn?",
+    "pb": "Xiànzài sān diǎn.",
+    "ea": "What time is it now?",
+    "eb": "It's three o'clock.",
+    "question": "What time is it?",
+    "choices": [
+      "3:00",
+      "2:00",
+      "4:00",
+      "5:00"
+    ],
+    "answer": 0,
+    "feedback": "三点 means three o'clock."
+  },
+  {
+    "id": "d06",
+    "level": 1,
+    "title": "Food",
+    "a": "你想吃什么？",
+    "b": "我想吃米饭。",
+    "pa": "Nǐ xiǎng chī shénme?",
+    "pb": "Wǒ xiǎng chī mǐfàn.",
+    "ea": "What do you want to eat?",
+    "eb": "I want to eat rice.",
+    "question": "What would the second person like?",
+    "choices": [
+      "Fruit",
+      "Rice",
+      "Bread",
+      "Noodles"
+    ],
+    "answer": 1,
+    "feedback": "米饭 is cooked rice."
+  },
+  {
+    "id": "d07",
+    "level": 2,
+    "title": "Plans for tomorrow",
+    "a": "明天你有时间吗？",
+    "b": "没有，我要工作。",
+    "pa": "Míngtiān nǐ yǒu shíjiān ma?",
+    "pb": "Méiyǒu, wǒ yào gōngzuò.",
+    "ea": "Do you have time tomorrow?",
+    "eb": "No, I have to work.",
+    "question": "Why is the second person unavailable?",
+    "choices": [
+      "They have class",
+      "They are traveling",
+      "They have to work",
+      "They are sleeping"
+    ],
+    "answer": 2,
+    "feedback": "我要工作 means I need to work."
+  },
+  {
+    "id": "d08",
+    "level": 2,
+    "title": "Why study Chinese?",
+    "a": "你为什么学习汉语？",
+    "b": "因为我想去中国。",
+    "pa": "Nǐ wèishénme xuéxí Hànyǔ?",
+    "pb": "Yīnwèi wǒ xiǎng qù Zhōngguó.",
+    "ea": "Why are you studying Chinese?",
+    "eb": "Because I want to go to China.",
+    "question": "Why is the second person learning Chinese?",
+    "choices": [
+      "To watch movies",
+      "To work in a shop",
+      "To teach students",
+      "To go to China"
+    ],
+    "answer": 3,
+    "feedback": "因为我想去中国 gives the reason: they want to go to China."
+  },
+  {
+    "id": "d09",
+    "level": 2,
+    "title": "A movie",
+    "a": "你觉得这个电影怎么样？",
+    "b": "我觉得很有意思。",
+    "pa": "Nǐ juéde zhège diànyǐng zěnmeyàng?",
+    "pb": "Wǒ juéde hěn yǒu yìsi.",
+    "ea": "What do you think of this movie?",
+    "eb": "I think it's very interesting.",
+    "question": "How does the second person feel about the movie?",
+    "choices": [
+      "They find it interesting",
+      "They find it boring",
+      "They find it too long",
+      "They don't understand it"
+    ],
+    "answer": 0,
+    "feedback": "很有意思 means very interesting."
+  },
+  {
+    "id": "d10",
+    "level": 2,
+    "title": "Meeting on Saturday",
+    "a": "我们什么时候见面？",
+    "b": "星期六下午两点。",
+    "pa": "Wǒmen shénme shíhou jiànmiàn?",
+    "pb": "Xīngqīliù xiàwǔ liǎng diǎn.",
+    "ea": "When shall we meet?",
+    "eb": "Saturday at two in the afternoon.",
+    "question": "When will they meet?",
+    "choices": [
+      "Friday at two",
+      "Saturday at two",
+      "Sunday at two",
+      "Saturday at three"
+    ],
+    "answer": 1,
+    "feedback": "星期六下午两点 means Saturday at 2 p.m."
+  },
+  {
+    "id": "d11",
+    "level": 1,
+    "title": "A new friend",
+    "a": "你是学生吗？",
+    "b": "是，我是学生。",
+    "pa": "Nǐ shì xuésheng ma?",
+    "pb": "Shì, wǒ shì xuésheng.",
+    "ea": "Are you a student?",
+    "eb": "Yes, I am a student.",
+    "question": "What is the second person?",
+    "choices": [
+      "A doctor",
+      "A student",
+      "A teacher",
+      "A worker"
+    ],
+    "answer": 1,
+    "feedback": "我是学生 means I am a student."
+  },
+  {
+    "id": "d12",
+    "level": 1,
+    "title": "At home",
+    "a": "妈妈在家吗？",
+    "b": "不在，她在学校。",
+    "pa": "Māma zài jiā ma?",
+    "pb": "Bú zài, tā zài xuéxiào.",
+    "ea": "Is Mom at home?",
+    "eb": "No, she is at school.",
+    "question": "Where is Mom?",
+    "choices": [
+      "At school",
+      "At home",
+      "At a store",
+      "At a restaurant"
+    ],
+    "answer": 0,
+    "feedback": "她在学校 means she is at school."
+  },
+  {
+    "id": "d13",
+    "level": 1,
+    "title": "This book",
+    "a": "这是你的书吗？",
+    "b": "不是，这是我朋友的书。",
+    "pa": "Zhè shì nǐ de shū ma?",
+    "pb": "Bú shì, zhè shì wǒ péngyou de shū.",
+    "ea": "Is this your book?",
+    "eb": "No, it belongs to my friend.",
+    "question": "Whose book is it?",
+    "choices": [
+      "The speaker’s",
+      "The friend’s",
+      "The teacher’s",
+      "The father’s"
+    ],
+    "answer": 1,
+    "feedback": "我朋友的书 means my friend’s book."
+  },
+  {
+    "id": "d14",
+    "level": 1,
+    "title": "Ordering drinks",
+    "a": "你想喝什么？",
+    "b": "我想喝一杯茶。",
+    "pa": "Nǐ xiǎng hē shénme?",
+    "pb": "Wǒ xiǎng hē yì bēi chá.",
+    "ea": "What would you like to drink?",
+    "eb": "I would like a cup of tea.",
+    "question": "What does the second person want?",
+    "choices": [
+      "A cup of tea",
+      "A cup of water",
+      "A bowl of rice",
+      "A bottle of milk"
+    ],
+    "answer": 0,
+    "feedback": "一杯茶 is one cup of tea."
+  },
+  {
+    "id": "d15",
+    "level": 1,
+    "title": "Today or tomorrow",
+    "a": "你今天去学校吗？",
+    "b": "不，我明天去。",
+    "pa": "Nǐ jīntiān qù xuéxiào ma?",
+    "pb": "Bù, wǒ míngtiān qù.",
+    "ea": "Are you going to school today?",
+    "eb": "No, I’m going tomorrow.",
+    "question": "When will the second person go?",
+    "choices": [
+      "Yesterday",
+      "Today",
+      "Tomorrow",
+      "Next week"
+    ],
+    "answer": 2,
+    "feedback": "明天去 means going tomorrow."
+  },
+  {
+    "id": "d16",
+    "level": 1,
+    "title": "Numbers",
+    "a": "你有几个苹果？",
+    "b": "我有三个苹果。",
+    "pa": "Nǐ yǒu jǐ ge píngguǒ?",
+    "pb": "Wǒ yǒu sān ge píngguǒ.",
+    "ea": "How many apples do you have?",
+    "eb": "I have three apples.",
+    "question": "How many apples?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": 2,
+    "feedback": "三个苹果 means three apples."
+  },
+  {
+    "id": "d17",
+    "level": 1,
+    "title": "The weather",
+    "a": "今天天气怎么样？",
+    "b": "今天很热。",
+    "pa": "Jīntiān tiānqì zěnmeyàng?",
+    "pb": "Jīntiān hěn rè.",
+    "ea": "What is the weather like today?",
+    "eb": "It is very hot today.",
+    "question": "How is the weather?",
+    "choices": [
+      "Cold",
+      "Hot",
+      "Rainy",
+      "Snowy"
+    ],
+    "answer": 1,
+    "feedback": "很热 describes hot weather."
+  },
+  {
+    "id": "d18",
+    "level": 1,
+    "title": "Your phone",
+    "a": "这是你的手机吗？",
+    "b": "是，谢谢你！",
+    "pa": "Zhè shì nǐ de shǒujī ma?",
+    "pb": "Shì, xièxie nǐ!",
+    "ea": "Is this your phone?",
+    "eb": "Yes, thank you!",
+    "question": "What was found?",
+    "choices": [
+      "A phone",
+      "A book",
+      "A chair",
+      "A cup"
+    ],
+    "answer": 0,
+    "feedback": "手机 means mobile phone."
+  },
+  {
+    "id": "d19",
+    "level": 2,
+    "title": "After lunch",
+    "a": "你吃饭了吗？",
+    "b": "吃了，我刚吃完。",
+    "pa": "Nǐ chī fàn le ma?",
+    "pb": "Chī le, wǒ gāng chī wán.",
+    "ea": "Have you eaten?",
+    "eb": "Yes, I just finished eating.",
+    "question": "Has the second person eaten?",
+    "choices": [
+      "Yes, just finished",
+      "No, not yet",
+      "Only breakfast",
+      "Only a snack"
+    ],
+    "answer": 0,
+    "feedback": "吃了 means the action of eating is completed."
+  },
+  {
+    "id": "d20",
+    "level": 2,
+    "title": "Going by bus",
+    "a": "我们怎么去学校？",
+    "b": "坐公共汽车吧。",
+    "pa": "Wǒmen zěnme qù xuéxiào?",
+    "pb": "Zuò gōnggòng qìchē ba.",
+    "ea": "How should we go to school?",
+    "eb": "Let’s take the bus.",
+    "question": "How will they travel?",
+    "choices": [
+      "By bike",
+      "By train",
+      "By bus",
+      "On foot"
+    ],
+    "answer": 2,
+    "feedback": "坐公共汽车 means travel by bus."
+  },
+  {
+    "id": "d21",
+    "level": 2,
+    "title": "A comparison",
+    "a": "这件衣服怎么样？",
+    "b": "比那件便宜。",
+    "pa": "Zhè jiàn yīfu zěnmeyàng?",
+    "pb": "Bǐ nà jiàn piányi.",
+    "ea": "What about these clothes?",
+    "eb": "Cheaper than those.",
+    "question": "What does the second person say?",
+    "choices": [
+      "More expensive",
+      "Cheaper",
+      "Longer",
+      "Too small"
+    ],
+    "answer": 1,
+    "feedback": "比那件便宜 means cheaper than that one."
+  },
+  {
+    "id": "d22",
+    "level": 2,
+    "title": "Studying right now",
+    "a": "你现在做什么？",
+    "b": "我正在看书。",
+    "pa": "Nǐ xiànzài zuò shénme?",
+    "pb": "Wǒ zhèngzài kàn shū.",
+    "ea": "What are you doing now?",
+    "eb": "I am reading a book.",
+    "question": "What is the second person doing?",
+    "choices": [
+      "Sleeping",
+      "Eating",
+      "Reading",
+      "Cooking"
+    ],
+    "answer": 2,
+    "feedback": "正在看书 describes reading right now."
+  },
+  {
+    "id": "d23",
+    "level": 2,
+    "title": "An appointment",
+    "a": "我们几点见面？",
+    "b": "下午五点，可以吗？",
+    "pa": "Wǒmen jǐ diǎn jiànmiàn?",
+    "pb": "Xiàwǔ wǔ diǎn, kěyǐ ma?",
+    "ea": "When shall we meet?",
+    "eb": "Five in the afternoon, is that okay?",
+    "question": "What time is suggested?",
+    "choices": [
+      "5 a.m.",
+      "3 p.m.",
+      "4 p.m.",
+      "5 p.m."
+    ],
+    "answer": 3,
+    "feedback": "下午五点 means 5 p.m."
+  },
+  {
+    "id": "d24",
+    "level": 2,
+    "title": "A busy friend",
+    "a": "你今天有空吗？",
+    "b": "没有，我要上班。",
+    "pa": "Nǐ jīntiān yǒu kòng ma?",
+    "pb": "Méiyǒu, wǒ yào shàngbān.",
+    "ea": "Are you free today?",
+    "eb": "No, I have to work.",
+    "question": "Why can’t the second person meet?",
+    "choices": [
+      "They are ill",
+      "They are working",
+      "They are traveling",
+      "They are studying"
+    ],
+    "answer": 1,
+    "feedback": "要上班 means needing to go to work."
+  },
+  {
+    "id": "d25",
+    "level": 2,
+    "title": "At the station",
+    "a": "车站离这儿远吗？",
+    "b": "不远，走五分钟。",
+    "pa": "Chēzhàn lí zhèr yuǎn ma?",
+    "pb": "Bù yuǎn, zǒu wǔ fēnzhōng.",
+    "ea": "Is the station far?",
+    "eb": "No, five minutes on foot.",
+    "question": "How long is the walk?",
+    "choices": [
+      "Two minutes",
+      "Three minutes",
+      "Five minutes",
+      "Ten minutes"
+    ],
+    "answer": 2,
+    "feedback": "走五分钟 means walk for five minutes."
+  },
+  {
+    "id": "d26",
+    "level": 2,
+    "title": "A weekend plan",
+    "a": "你周末想做什么？",
+    "b": "我想和朋友一起看电影。",
+    "pa": "Nǐ zhōumò xiǎng zuò shénme?",
+    "pb": "Wǒ xiǎng hé péngyou yìqǐ kàn diànyǐng.",
+    "ea": "What do you want to do this weekend?",
+    "eb": "Watch a film with a friend.",
+    "question": "What is planned?",
+    "choices": [
+      "Read alone",
+      "Watch a movie together",
+      "Go swimming",
+      "Study at home"
+    ],
+    "answer": 1,
+    "feedback": "一起看电影 means watch a movie together."
+  },
+  {
+    "id": "d27",
+    "level": 2,
+    "title": "Too expensive",
+    "a": "这个多少钱？",
+    "b": "八十块，有点贵。",
+    "pa": "Zhège duōshao qián?",
+    "pb": "Bāshí kuài, yǒudiǎn guì.",
+    "ea": "How much is this?",
+    "eb": "Eighty yuan; a bit expensive.",
+    "question": "What does the second person think of the price?",
+    "choices": [
+      "Very cheap",
+      "A little expensive",
+      "Exactly right",
+      "Free"
+    ],
+    "answer": 1,
+    "feedback": "有点贵 means somewhat expensive."
+  },
+  {
+    "id": "d28",
+    "level": 2,
+    "title": "Not finished yet",
+    "a": "你写完了吗？",
+    "b": "还没有，我再写一会儿。",
+    "pa": "Nǐ xiě wán le ma?",
+    "pb": "Hái méiyǒu, wǒ zài xiě yíhuìr.",
+    "ea": "Have you finished writing?",
+    "eb": "Not yet; I will write a little more.",
+    "question": "Has the second person finished?",
+    "choices": [
+      "Yes, yesterday",
+      "Yes, just now",
+      "Not yet",
+      "Never started"
+    ],
+    "answer": 2,
+    "feedback": "还没有 means not yet."
+  }
+]

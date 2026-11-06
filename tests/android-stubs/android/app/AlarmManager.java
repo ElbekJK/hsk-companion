@@ -1,0 +1,1 @@
+package android.app; public class AlarmManager {public static final int RTC_WAKEUP=1;public static final long INTERVAL_DAY=86400000L;public void cancel(PendingIntent p){}public void setInexactRepeating(int t,long when,long interval,PendingIntent pi){}}

@@ -1,0 +1,1 @@
+package android.widget;public class ScrollView extends FrameLayout{public ScrollView(Object c){super(c);}public void setFillViewport(boolean v){}public void setClipToPadding(boolean v){}public void setVerticalScrollBarEnabled(boolean v){}}

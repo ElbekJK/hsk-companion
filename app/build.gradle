@@ -1,0 +1,26 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.example.hskcompanion'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.example.hskcompanion'
+        minSdk 23
+        targetSdk 36
+        versionCode 18
+        versionName '1.2.1'
+    }
+
+    androidResources {
+        // MediaPlayer uses AssetManager.openFd: bundle MP3 without compression.
+        noCompress.add('mp3')
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}

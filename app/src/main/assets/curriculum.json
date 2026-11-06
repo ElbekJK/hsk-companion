@@ -1,0 +1,154 @@
+[
+  {
+    "id": "u01",
+    "level": 1,
+    "title": "Meet someone",
+    "goal": "Introduce yourself and ask simple questions.",
+    "grammar": [
+      "g01",
+      "g02",
+      "g04"
+    ],
+    "dialogues": [
+      "d01",
+      "d11",
+      "d04"
+    ]
+  },
+  {
+    "id": "u02",
+    "level": 1,
+    "title": "People and places",
+    "goal": "Talk about family, friends, belongings and locations.",
+    "grammar": [
+      "g05",
+      "g06",
+      "g17"
+    ],
+    "dialogues": [
+      "d02",
+      "d12",
+      "d13"
+    ]
+  },
+  {
+    "id": "u03",
+    "level": 1,
+    "title": "Food and drink",
+    "goal": "Order politely and explain what you want.",
+    "grammar": [
+      "g03",
+      "g19"
+    ],
+    "dialogues": [
+      "d03",
+      "d06",
+      "d14"
+    ]
+  },
+  {
+    "id": "u04",
+    "level": 1,
+    "title": "Today and tomorrow",
+    "goal": "Understand dates, daily routines and clock time.",
+    "grammar": [
+      "g18",
+      "g20"
+    ],
+    "dialogues": [
+      "d05",
+      "d15",
+      "d17"
+    ]
+  },
+  {
+    "id": "u05",
+    "level": 1,
+    "title": "Things and numbers",
+    "goal": "Identify quantities, find belongings and thank people.",
+    "grammar": [
+      "g07",
+      "g08"
+    ],
+    "dialogues": [
+      "d16",
+      "d18"
+    ]
+  },
+  {
+    "id": "u06",
+    "level": 2,
+    "title": "What happened?",
+    "goal": "Describe completed actions and personal experience.",
+    "grammar": [
+      "g09",
+      "g10",
+      "g22"
+    ],
+    "dialogues": [
+      "d19",
+      "d28",
+      "d07"
+    ]
+  },
+  {
+    "id": "u07",
+    "level": 2,
+    "title": "Choose and compare",
+    "goal": "Understand comparisons, preferences and price.",
+    "grammar": [
+      "g11",
+      "g15"
+    ],
+    "dialogues": [
+      "d21",
+      "d27",
+      "d09"
+    ]
+  },
+  {
+    "id": "u08",
+    "level": 2,
+    "title": "Making plans",
+    "goal": "Talk about availability, permission and meeting times.",
+    "grammar": [
+      "g13",
+      "g21",
+      "g24"
+    ],
+    "dialogues": [
+      "d10",
+      "d23",
+      "d26"
+    ]
+  },
+  {
+    "id": "u09",
+    "level": 2,
+    "title": "Everyday movement",
+    "goal": "Describe current actions, routes and transport.",
+    "grammar": [
+      "g12",
+      "g23"
+    ],
+    "dialogues": [
+      "d20",
+      "d22",
+      "d25"
+    ]
+  },
+  {
+    "id": "u10",
+    "level": 2,
+    "title": "Reasons and routines",
+    "goal": "Explain why, describe work, and combine activities.",
+    "grammar": [
+      "g14",
+      "g16"
+    ],
+    "dialogues": [
+      "d08",
+      "d24"
+    ]
+  }
+]

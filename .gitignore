@@ -1,0 +1,28 @@
+.gradle/
+.cache/
+.idea/
+**/build/
+local.properties
+*.iml
+*.apk
+*.aab
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+
+# Secrets, authentication credentials and Android signing material
+.env
+.env.*
+*.env
+*.jks
+*.keystore
+*.pem
+*.p12
+*.pfx
+*.key
+key.properties
+
+# Azure speech pack is generated locally and must not be published as source.
+# The compiled, separately reviewed APK can contain verified MP3s.
+app/src/main/assets/audio/

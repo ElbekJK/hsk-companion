@@ -1,0 +1,1 @@
+package org.json;public class JSONArray {public JSONArray(){}public JSONArray(String s){}public JSONArray put(Object o){return this;}public int length(){return 0;}public JSONObject getJSONObject(int i){return null;}public String getString(int i){return "";}}

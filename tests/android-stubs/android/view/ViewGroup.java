@@ -1,0 +1,1 @@
+package android.view;public class ViewGroup extends View{public ViewGroup(Object c){super(c);}public static class LayoutParams{public int width,height;public LayoutParams(int w,int h){width=w;height=h;}} public void addView(View v){}public void addView(View v,LayoutParams p){}public void removeAllViews(){}}

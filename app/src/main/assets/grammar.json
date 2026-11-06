@@ -1,0 +1,458 @@
+[
+  {
+    "id": "g01",
+    "level": 1,
+    "title": "Basic statement: 是",
+    "pattern": "A 是 B",
+    "explain": "Use 是 (shì) to identify people or things. Do not normally use it to link a person to an adjective.",
+    "hanzi": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "translation": "I am a student.",
+    "question": "Which sentence means “I am a student”?",
+    "choices": [
+      "我是学生。",
+      "我在学生。",
+      "我有学生。",
+      "我不学生。"
+    ],
+    "answer": 0,
+    "feedback": "Use 是 to connect the subject and a noun."
+  },
+  {
+    "id": "g02",
+    "level": 1,
+    "title": "Yes/no questions: 吗",
+    "pattern": "Statement + 吗？",
+    "explain": "Add 吗 (ma) to the end of a statement to ask a yes/no question.",
+    "hanzi": "你是老师吗？",
+    "pinyin": "Nǐ shì lǎoshī ma?",
+    "translation": "Are you a teacher?",
+    "question": "Which asks “Are you a teacher?”",
+    "choices": [
+      "你是老师。",
+      "你是老师吗？",
+      "老师是你。",
+      "你老师有。"
+    ],
+    "answer": 1,
+    "feedback": "The question particle 吗 belongs at the end."
+  },
+  {
+    "id": "g03",
+    "level": 1,
+    "title": "Negation: 不",
+    "pattern": "不 + verb/adjective",
+    "explain": "Put 不 (bù) before a verb or adjective to say “not.”",
+    "hanzi": "我不喝茶。",
+    "pinyin": "Wǒ bù hē chá.",
+    "translation": "I do not drink tea.",
+    "question": "Which means “I don’t drink tea”?",
+    "choices": [
+      "我喝不茶。",
+      "我喝茶不。",
+      "我不喝茶。",
+      "我喝茶。"
+    ],
+    "answer": 2,
+    "feedback": "不 comes before 喝."
+  },
+  {
+    "id": "g04",
+    "level": 1,
+    "title": "Questions: 什么",
+    "pattern": "什么 = what",
+    "explain": "Use 什么 (shénme) in the position of the missing information.",
+    "hanzi": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "translation": "What is your name?",
+    "question": "What does 什么 mean in this sentence?",
+    "choices": [
+      "when",
+      "where",
+      "who",
+      "what"
+    ],
+    "answer": 3,
+    "feedback": "什么 asks for information about a thing or name."
+  },
+  {
+    "id": "g05",
+    "level": 1,
+    "title": "Possession: 的",
+    "pattern": "owner + 的 + noun",
+    "explain": "Use 的 (de) to show belonging; with very close relationships it can sometimes be omitted.",
+    "hanzi": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "translation": "This is my book.",
+    "question": "Which means “my book”?",
+    "choices": [
+      "我书的",
+      "我的书",
+      "书的我",
+      "书我是"
+    ],
+    "answer": 1,
+    "feedback": "The owner comes before 的."
+  },
+  {
+    "id": "g06",
+    "level": 1,
+    "title": "Location: 在",
+    "pattern": "subject + 在 + place",
+    "explain": "Use 在 (zài) to say where someone or something is located.",
+    "hanzi": "我在学校。",
+    "pinyin": "Wǒ zài xuéxiào.",
+    "translation": "I am at school.",
+    "question": "Which says “I am at school”?",
+    "choices": [
+      "我学校在。",
+      "学校我有。",
+      "我在学校。",
+      "我学校是。"
+    ],
+    "answer": 2,
+    "feedback": "在 comes before the place."
+  },
+  {
+    "id": "g07",
+    "level": 1,
+    "title": "Have / there is: 有",
+    "pattern": "subject + 有 + noun",
+    "explain": "Use 有 (yǒu) for possession or existence. Its negative form is 没有, not 不有.",
+    "hanzi": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "translation": "I have a book.",
+    "question": "How do you say “I do not have a book”?",
+    "choices": [
+      "我不有书。",
+      "我没书有。",
+      "我没有书。",
+      "我有不书。"
+    ],
+    "answer": 2,
+    "feedback": "Negating 有 uses 没有."
+  },
+  {
+    "id": "g08",
+    "level": 1,
+    "title": "Numbers and measure words",
+    "pattern": "number + measure word + noun",
+    "explain": "Use a measure word between a number and a noun. 个 is common, but not universal.",
+    "hanzi": "三个人",
+    "pinyin": "Sān ge rén",
+    "translation": "Three people",
+    "question": "Which phrase means “three people”?",
+    "choices": [
+      "三个人",
+      "三人个",
+      "个三人",
+      "人三个"
+    ],
+    "answer": 0,
+    "feedback": "A measure word links the number with the noun."
+  },
+  {
+    "id": "g09",
+    "level": 2,
+    "title": "Completed actions: 了",
+    "pattern": "verb + 了",
+    "explain": "After many verbs, 了 (le) can signal a completed event. It does not always equal English past tense.",
+    "hanzi": "我买了书。",
+    "pinyin": "Wǒ mǎi le shū.",
+    "translation": "I bought a book.",
+    "question": "Which sentence indicates a completed purchase?",
+    "choices": [
+      "我买书吗？",
+      "我买了书。",
+      "我不买书。",
+      "我会买书。"
+    ],
+    "answer": 1,
+    "feedback": "The particle comes after 买."
+  },
+  {
+    "id": "g10",
+    "level": 2,
+    "title": "Experience: 过",
+    "pattern": "verb + 过",
+    "explain": "Use 过 (guo) after a verb to describe having experienced something.",
+    "hanzi": "我去过中国。",
+    "pinyin": "Wǒ qù guo Zhōngguó.",
+    "translation": "I have been to China.",
+    "question": "Which means “I have been to China” (experience)?",
+    "choices": [
+      "我去中国吗？",
+      "我在中国去。",
+      "我去过中国。",
+      "我去中国的。"
+    ],
+    "answer": 2,
+    "feedback": "过 expresses experience."
+  },
+  {
+    "id": "g11",
+    "level": 2,
+    "title": "Comparison: 比",
+    "pattern": "A + 比 + B + adjective",
+    "explain": "Use 比 (bǐ) to compare two things or people.",
+    "hanzi": "今天比昨天热。",
+    "pinyin": "Jīntiān bǐ zuótiān rè.",
+    "translation": "Today is hotter than yesterday.",
+    "question": "Which means “Today is hotter than yesterday”?",
+    "choices": [
+      "昨天比今天热。",
+      "今天比昨天热。",
+      "今天和昨天热吗？",
+      "今天热不昨天。"
+    ],
+    "answer": 1,
+    "feedback": "The hotter day comes before 比."
+  },
+  {
+    "id": "g12",
+    "level": 2,
+    "title": "Ongoing action: 在",
+    "pattern": "在 + verb + object",
+    "explain": "Put 在 before a verb to emphasize an ongoing activity.",
+    "hanzi": "我在看书。",
+    "pinyin": "Wǒ zài kàn shū.",
+    "translation": "I am reading a book.",
+    "question": "Which means “I am reading a book”?",
+    "choices": [
+      "我在看书。",
+      "我书在看。",
+      "我看在书。",
+      "在我书看。"
+    ],
+    "answer": 0,
+    "feedback": "The marker appears before 看."
+  },
+  {
+    "id": "g13",
+    "level": 2,
+    "title": "Ability: 会 and 能",
+    "pattern": "会 = learned skill; 能 = ability/possibility",
+    "explain": "会 (huì) commonly describes learned skills; 能 (néng) can describe capability or circumstances. Uses overlap in some contexts.",
+    "hanzi": "我会说汉语。",
+    "pinyin": "Wǒ huì shuō Hànyǔ.",
+    "translation": "I can speak Chinese.",
+    "question": "Which is a natural way to say “I can speak Chinese”?",
+    "choices": [
+      "我说会汉语。",
+      "我会说汉语。",
+      "汉语会我说。",
+      "我汉语会说。"
+    ],
+    "answer": 1,
+    "feedback": "会 comes before the verb，说."
+  },
+  {
+    "id": "g14",
+    "level": 2,
+    "title": "Because / so: 因为…所以…",
+    "pattern": "因为 cause，所以 result",
+    "explain": "因为 (yīnwèi) introduces a cause, while 所以 (suǒyǐ) introduces its result.",
+    "hanzi": "因为下雨，所以我不去。",
+    "pinyin": "Yīnwèi xià yǔ, suǒyǐ wǒ bú qù.",
+    "translation": "Because it is raining, I am not going.",
+    "question": "In 因为下雨，所以我不去, which part gives the reason?",
+    "choices": [
+      "我不去",
+      "所以",
+      "因为下雨",
+      "我"
+    ],
+    "answer": 2,
+    "feedback": "The reason is introduced by 因为."
+  },
+  {
+    "id": "g15",
+    "level": 2,
+    "title": "Asking about degree: 多",
+    "pattern": "多 + adjective?",
+    "explain": "多 (duō) before an adjective such as 大 or 高 can ask about age or size.",
+    "hanzi": "你多大？",
+    "pinyin": "Nǐ duō dà?",
+    "translation": "How old are you?",
+    "question": "What does 你多大？ commonly ask?",
+    "choices": [
+      "What is your name?",
+      "How old are you?",
+      "Where are you?",
+      "What time is it?"
+    ],
+    "answer": 1,
+    "feedback": "Here 大 refers to age in a common question."
+  },
+  {
+    "id": "g16",
+    "level": 2,
+    "title": "Two actions: 一边…一边…",
+    "pattern": "一边 + action 1，一边 + action 2",
+    "explain": "Use 一边…一边… to say two actions happen simultaneously.",
+    "hanzi": "我一边听音乐，一边做饭。",
+    "pinyin": "Wǒ yìbiān tīng yīnyuè, yìbiān zuò fàn.",
+    "translation": "I listen to music while cooking.",
+    "question": "Which sentence says two activities happen together?",
+    "choices": [
+      "我一边听音乐，一边做饭。",
+      "我听了音乐。",
+      "我不做饭。",
+      "我明天做饭。"
+    ],
+    "answer": 0,
+    "feedback": "The repeated 一边 marks simultaneous actions."
+  },
+  {
+    "id": "g17",
+    "level": 1,
+    "title": "Where: 哪儿",
+    "pattern": "subject + 在 + 哪儿",
+    "explain": "Ask where someone or something is with 哪儿 (nǎr). Answer with 在 and a location.",
+    "hanzi": "书在哪儿？",
+    "pinyin": "Shū zài nǎr?",
+    "translation": "Where is the book?",
+    "question": "Which asks where the book is?",
+    "choices": [
+      "书在哪儿？",
+      "书是什么？",
+      "书几本？",
+      "书是谁？"
+    ],
+    "answer": 0,
+    "feedback": "在哪儿 asks where something is."
+  },
+  {
+    "id": "g18",
+    "level": 1,
+    "title": "Clock time: 几点",
+    "pattern": "现在 + 几点",
+    "explain": "几 (jǐ) asks about a small number. 几点 asks for the hour.",
+    "hanzi": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "translation": "What time is it now?",
+    "question": "Which asks for the time?",
+    "choices": [
+      "你叫什么？",
+      "现在几点？",
+      "你去哪儿？",
+      "你吃什么？"
+    ],
+    "answer": 1,
+    "feedback": "几点 means what time (hour)."
+  },
+  {
+    "id": "g19",
+    "level": 1,
+    "title": "Wants: 想",
+    "pattern": "subject + 想 + verb",
+    "explain": "想 (xiǎng) expresses wanting to do something. Follow it with a verb.",
+    "hanzi": "我想喝水。",
+    "pinyin": "Wǒ xiǎng hē shuǐ.",
+    "translation": "I want to drink water.",
+    "question": "Which says “I want to drink water”?",
+    "choices": [
+      "我喝想水。",
+      "我想水喝。",
+      "我想喝水。",
+      "想我喝水。"
+    ],
+    "answer": 2,
+    "feedback": "想 should appear before the verb 喝."
+  },
+  {
+    "id": "g20",
+    "level": 1,
+    "title": "Descriptions: 很",
+    "pattern": "subject + 很 + adjective",
+    "explain": "In a simple descriptive sentence, 很 commonly links a subject to an adjective. It need not always mean “very.”",
+    "hanzi": "今天很冷。",
+    "pinyin": "Jīntiān hěn lěng.",
+    "translation": "Today is cold.",
+    "question": "Which is a natural simple description?",
+    "choices": [
+      "今天是冷。",
+      "今天有冷。",
+      "很今天冷。",
+      "今天很冷。"
+    ],
+    "answer": 3,
+    "feedback": "很 can introduce the adjective 冷 in a simple statement."
+  },
+  {
+    "id": "g21",
+    "level": 2,
+    "title": "Permission: 可以",
+    "pattern": "subject + 可以 + verb",
+    "explain": "可以 (kěyǐ) expresses permission or possibility in many beginner contexts.",
+    "hanzi": "我可以坐这儿吗？",
+    "pinyin": "Wǒ kěyǐ zuò zhèr ma?",
+    "translation": "May I sit here?",
+    "question": "Which asks permission to sit?",
+    "choices": [
+      "我可以坐这儿吗？",
+      "我这里坐可以。",
+      "我坐吗可以？",
+      "我坐这儿的。"
+    ],
+    "answer": 0,
+    "feedback": "可以 before the verb asks whether the action is allowed."
+  },
+  {
+    "id": "g22",
+    "level": 2,
+    "title": "Already: 已经",
+    "pattern": "已经 + verb + 了",
+    "explain": "已经 (yǐjīng) often signals that an action is already complete.",
+    "hanzi": "我已经吃饭了。",
+    "pinyin": "Wǒ yǐjīng chī fàn le.",
+    "translation": "I have already eaten.",
+    "question": "Which says “I have already eaten”?",
+    "choices": [
+      "我吃已经饭。",
+      "我已经吃饭了。",
+      "我饭已经吃不。",
+      "我吃饭已经吗。"
+    ],
+    "answer": 1,
+    "feedback": "已经 appears before the action, while 了 marks its completion."
+  },
+  {
+    "id": "g23",
+    "level": 2,
+    "title": "Each time: 每…都…",
+    "pattern": "每 + time unit + 都 + action",
+    "explain": "Use 每 (měi) for each/every and 都 (dōu) to describe a regular action.",
+    "hanzi": "我每天都学习汉语。",
+    "pinyin": "Wǒ měi tiān dōu xuéxí Hànyǔ.",
+    "translation": "I study Chinese every day.",
+    "question": "Which expresses daily routine?",
+    "choices": [
+      "我每天学习都汉语。",
+      "我都每学习汉语。",
+      "我每天都学习汉语。",
+      "每天我学习都汉语。"
+    ],
+    "answer": 2,
+    "feedback": "每天都学习 means study every day."
+  },
+  {
+    "id": "g24",
+    "level": 2,
+    "title": "Together: 一起",
+    "pattern": "和 + person + 一起 + verb",
+    "explain": "Use 一起 (yìqǐ) when people do something together.",
+    "hanzi": "我和朋友一起去。",
+    "pinyin": "Wǒ hé péngyou yìqǐ qù.",
+    "translation": "I am going together with a friend.",
+    "question": "Which means “I go with a friend”?",
+    "choices": [
+      "我一起朋友和去。",
+      "我朋友去和一起。",
+      "一起我朋友和去。",
+      "我和朋友一起去。"
+    ],
+    "answer": 3,
+    "feedback": "和朋友一起 means together with a friend."
+  }
+]

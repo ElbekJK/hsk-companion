@@ -1,0 +1,2480 @@
+[
+  {
+    "target": "你",
+    "chinese": "你好吗？",
+    "pinyin": "Nǐ hǎo ma?",
+    "english": "How are you?"
+  },
+  {
+    "target": "好",
+    "chinese": "我很好。",
+    "pinyin": "Wǒ hěn hǎo.",
+    "english": "I'm doing well."
+  },
+  {
+    "target": "我",
+    "chinese": "我是学生。",
+    "pinyin": "Wǒ shì xuésheng.",
+    "english": "I am a student."
+  },
+  {
+    "target": "是",
+    "chinese": "她是老师。",
+    "pinyin": "Tā shì lǎoshī.",
+    "english": "She is a teacher."
+  },
+  {
+    "target": "他",
+    "chinese": "他是我的朋友。",
+    "pinyin": "Tā shì wǒ de péngyou.",
+    "english": "He is my friend."
+  },
+  {
+    "target": "她",
+    "chinese": "她喜欢茶。",
+    "pinyin": "Tā xǐhuan chá.",
+    "english": "She likes tea."
+  },
+  {
+    "target": "吗",
+    "chinese": "你喝茶吗？",
+    "pinyin": "Nǐ hē chá ma?",
+    "english": "Do you drink tea?"
+  },
+  {
+    "target": "什么",
+    "chinese": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "english": "What's your name?"
+  },
+  {
+    "target": "名字",
+    "chinese": "你的名字是什么？",
+    "pinyin": "Nǐ de míngzi shì shénme?",
+    "english": "What is your name?"
+  },
+  {
+    "target": "叫",
+    "chinese": "我叫小明。",
+    "pinyin": "Wǒ jiào Xiǎomíng.",
+    "english": "My name is Xiaoming."
+  },
+  {
+    "target": "谢谢",
+    "chinese": "谢谢你的帮助。",
+    "pinyin": "Xièxie nǐ de bāngzhù.",
+    "english": "Thank you for your help."
+  },
+  {
+    "target": "不",
+    "chinese": "我不喝咖啡。",
+    "pinyin": "Wǒ bù hē kāfēi.",
+    "english": "I don't drink coffee."
+  },
+  {
+    "target": "有",
+    "chinese": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "english": "I have a book."
+  },
+  {
+    "target": "在",
+    "chinese": "我在学校。",
+    "pinyin": "Wǒ zài xuéxiào.",
+    "english": "I'm at school."
+  },
+  {
+    "target": "去",
+    "chinese": "我去学校。",
+    "pinyin": "Wǒ qù xuéxiào.",
+    "english": "I'm going to school."
+  },
+  {
+    "target": "来",
+    "chinese": "朋友今天来我家。",
+    "pinyin": "Péngyou jīntiān lái wǒ jiā.",
+    "english": "A friend is coming to my home today."
+  },
+  {
+    "target": "喝",
+    "chinese": "我想喝水。",
+    "pinyin": "Wǒ xiǎng hē shuǐ.",
+    "english": "I want to drink water."
+  },
+  {
+    "target": "水",
+    "chinese": "请给我水。",
+    "pinyin": "Qǐng gěi wǒ shuǐ.",
+    "english": "Please give me water."
+  },
+  {
+    "target": "茶",
+    "chinese": "你想喝茶吗？",
+    "pinyin": "Nǐ xiǎng hē chá ma?",
+    "english": "Would you like tea?"
+  },
+  {
+    "target": "吃",
+    "chinese": "我们吃米饭。",
+    "pinyin": "Wǒmen chī mǐfàn.",
+    "english": "We eat rice."
+  },
+  {
+    "target": "米饭",
+    "chinese": "我喜欢吃米饭。",
+    "pinyin": "Wǒ xǐhuan chī mǐfàn.",
+    "english": "I like eating rice."
+  },
+  {
+    "target": "喜欢",
+    "chinese": "我喜欢学汉语。",
+    "pinyin": "Wǒ xǐhuan xué Hànyǔ.",
+    "english": "I like learning Chinese."
+  },
+  {
+    "target": "学习",
+    "chinese": "我每天学习汉语。",
+    "pinyin": "Wǒ měitiān xuéxí Hànyǔ.",
+    "english": "I study Chinese every day."
+  },
+  {
+    "target": "汉语",
+    "chinese": "我会说一点汉语。",
+    "pinyin": "Wǒ huì shuō yìdiǎn Hànyǔ.",
+    "english": "I can speak a little Chinese."
+  },
+  {
+    "target": "会",
+    "chinese": "我会写汉字。",
+    "pinyin": "Wǒ huì xiě Hànzì.",
+    "english": "I can write Chinese characters."
+  },
+  {
+    "target": "说",
+    "chinese": "请说慢一点。",
+    "pinyin": "Qǐng shuō màn yìdiǎn.",
+    "english": "Please speak a little more slowly."
+  },
+  {
+    "target": "听",
+    "chinese": "我听中文歌。",
+    "pinyin": "Wǒ tīng Zhōngwén gē.",
+    "english": "I listen to Chinese songs."
+  },
+  {
+    "target": "看",
+    "chinese": "我看书。",
+    "pinyin": "Wǒ kàn shū.",
+    "english": "I'm reading a book."
+  },
+  {
+    "target": "书",
+    "chinese": "这本书很好。",
+    "pinyin": "Zhè běn shū hěn hǎo.",
+    "english": "This book is very good."
+  },
+  {
+    "target": "写",
+    "chinese": "我写汉字。",
+    "pinyin": "Wǒ xiě Hànzì.",
+    "english": "I write Chinese characters."
+  },
+  {
+    "target": "读",
+    "chinese": "她喜欢读书。",
+    "pinyin": "Tā xǐhuan dú shū.",
+    "english": "She likes reading."
+  },
+  {
+    "target": "朋友",
+    "chinese": "他是我的好朋友。",
+    "pinyin": "Tā shì wǒ de hǎo péngyou.",
+    "english": "He is my good friend."
+  },
+  {
+    "target": "老师",
+    "chinese": "老师在学校。",
+    "pinyin": "Lǎoshī zài xuéxiào.",
+    "english": "The teacher is at school."
+  },
+  {
+    "target": "学生",
+    "chinese": "她是学生。",
+    "pinyin": "Tā shì xuésheng.",
+    "english": "She is a student."
+  },
+  {
+    "target": "学校",
+    "chinese": "学校很大。",
+    "pinyin": "Xuéxiào hěn dà.",
+    "english": "The school is big."
+  },
+  {
+    "target": "今天",
+    "chinese": "今天天气很好。",
+    "pinyin": "Jīntiān tiānqì hěn hǎo.",
+    "english": "The weather is good today."
+  },
+  {
+    "target": "明天",
+    "chinese": "明天见！",
+    "pinyin": "Míngtiān jiàn!",
+    "english": "See you tomorrow!"
+  },
+  {
+    "target": "现在",
+    "chinese": "你现在忙吗？",
+    "pinyin": "Nǐ xiànzài máng ma?",
+    "english": "Are you busy now?"
+  },
+  {
+    "target": "天气",
+    "chinese": "今天的天气怎么样？",
+    "pinyin": "Jīntiān de tiānqì zěnmeyàng?",
+    "english": "How's today's weather?"
+  },
+  {
+    "target": "大",
+    "chinese": "这个房间很大。",
+    "pinyin": "Zhège fángjiān hěn dà.",
+    "english": "This room is big."
+  },
+  {
+    "target": "小",
+    "chinese": "这只猫很小。",
+    "pinyin": "Zhè zhī māo hěn xiǎo.",
+    "english": "This cat is small."
+  },
+  {
+    "target": "猫",
+    "chinese": "我有一只猫。",
+    "pinyin": "Wǒ yǒu yì zhī māo.",
+    "english": "I have a cat."
+  },
+  {
+    "target": "狗",
+    "chinese": "那是我的狗。",
+    "pinyin": "Nà shì wǒ de gǒu.",
+    "english": "That is my dog."
+  },
+  {
+    "target": "买",
+    "chinese": "我要买苹果。",
+    "pinyin": "Wǒ yào mǎi píngguǒ.",
+    "english": "I want to buy apples."
+  },
+  {
+    "target": "钱",
+    "chinese": "你有多少钱？",
+    "pinyin": "Nǐ yǒu duōshao qián?",
+    "english": "How much money do you have?"
+  },
+  {
+    "target": "多少",
+    "chinese": "这本书多少钱？",
+    "pinyin": "Zhè běn shū duōshao qián?",
+    "english": "How much does this book cost?"
+  },
+  {
+    "target": "几",
+    "chinese": "现在几点？",
+    "pinyin": "Xiànzài jǐ diǎn?",
+    "english": "What time is it?"
+  },
+  {
+    "target": "时间",
+    "chinese": "你有时间吗？",
+    "pinyin": "Nǐ yǒu shíjiān ma?",
+    "english": "Do you have time?"
+  },
+  {
+    "target": "工作",
+    "chinese": "他今天工作。",
+    "pinyin": "Tā jīntiān gōngzuò.",
+    "english": "He is working today."
+  },
+  {
+    "target": "认识",
+    "chinese": "很高兴认识你。",
+    "pinyin": "Hěn gāoxìng rènshi nǐ.",
+    "english": "Nice to meet you."
+  },
+  {
+    "target": "高兴",
+    "chinese": "我今天很高兴。",
+    "pinyin": "Wǒ jīntiān hěn gāoxìng.",
+    "english": "I'm very happy today."
+  },
+  {
+    "target": "给",
+    "chinese": "请给我一本书。",
+    "pinyin": "Qǐng gěi wǒ yì běn shū.",
+    "english": "Please give me a book."
+  },
+  {
+    "target": "可以",
+    "chinese": "我可以坐这里吗？",
+    "pinyin": "Wǒ kěyǐ zuò zhèlǐ ma?",
+    "english": "May I sit here?"
+  },
+  {
+    "target": "因为",
+    "chinese": "因为下雨，我不出去。",
+    "pinyin": "Yīnwèi xià yǔ, wǒ bù chūqù.",
+    "english": "Because it's raining, I won't go out."
+  },
+  {
+    "target": "一起",
+    "chinese": "我们一起去吃饭。",
+    "pinyin": "Wǒmen yìqǐ qù chī fàn.",
+    "english": "Let's go eat together."
+  },
+  {
+    "target": "已经",
+    "chinese": "我已经吃饭了。",
+    "pinyin": "Wǒ yǐjīng chī fàn le.",
+    "english": "I've already eaten."
+  },
+  {
+    "target": "觉得",
+    "chinese": "我觉得这个很好。",
+    "pinyin": "Wǒ juéde zhège hěn hǎo.",
+    "english": "I think this is very good."
+  },
+  {
+    "target": "再见",
+    "chinese": "老师，再见！",
+    "pinyin": "Lǎoshī, zàijiàn!",
+    "english": "Goodbye, teacher!"
+  },
+  {
+    "target": "对不起",
+    "chinese": "对不起，我来晚了。",
+    "pinyin": "Duìbuqǐ, wǒ lái wǎn le.",
+    "english": "Sorry, I'm late."
+  },
+  {
+    "target": "不客气",
+    "chinese": "不客气！",
+    "pinyin": "Bú kèqi!",
+    "english": "You're welcome!"
+  },
+  {
+    "target": "你",
+    "chinese": "你今天有时间吗？",
+    "pinyin": "Nǐ jīntiān yǒu shíjiān ma?",
+    "english": "Do you have time today?"
+  },
+  {
+    "target": "我",
+    "chinese": "我想学中文。",
+    "pinyin": "Wǒ xiǎng xué Zhōngwén.",
+    "english": "I want to learn Chinese."
+  },
+  {
+    "target": "好",
+    "chinese": "这本书很好。",
+    "pinyin": "Zhè běn shū hěn hǎo.",
+    "english": "This book is good."
+  },
+  {
+    "target": "是",
+    "chinese": "这是不是你的书？",
+    "pinyin": "Zhè shì bu shì nǐ de shū?",
+    "english": "Is this your book?"
+  },
+  {
+    "target": "他",
+    "chinese": "他今天不在家。",
+    "pinyin": "Tā jīntiān bú zài jiā.",
+    "english": "He is not at home today."
+  },
+  {
+    "target": "她",
+    "chinese": "她明天去学校。",
+    "pinyin": "Tā míngtiān qù xuéxiào.",
+    "english": "She will go to school tomorrow."
+  },
+  {
+    "target": "有",
+    "chinese": "你有几个朋友？",
+    "pinyin": "Nǐ yǒu jǐ ge péngyou?",
+    "english": "How many friends do you have?"
+  },
+  {
+    "target": "在",
+    "chinese": "老师在教室里。",
+    "pinyin": "Lǎoshī zài jiàoshì lǐ.",
+    "english": "The teacher is in the classroom."
+  },
+  {
+    "target": "去",
+    "chinese": "我们明天去北京。",
+    "pinyin": "Wǒmen míngtiān qù Běijīng.",
+    "english": "We are going to Beijing tomorrow."
+  },
+  {
+    "target": "来",
+    "chinese": "你什么时候来？",
+    "pinyin": "Nǐ shénme shíhou lái?",
+    "english": "When will you come?"
+  },
+  {
+    "target": "喝",
+    "chinese": "他每天喝水。",
+    "pinyin": "Tā měitiān hē shuǐ.",
+    "english": "He drinks water every day."
+  },
+  {
+    "target": "水",
+    "chinese": "我想买两瓶水。",
+    "pinyin": "Wǒ xiǎng mǎi liǎng píng shuǐ.",
+    "english": "I want to buy two bottles of water."
+  },
+  {
+    "target": "茶",
+    "chinese": "这是你的茶吗？",
+    "pinyin": "Zhè shì nǐ de chá ma?",
+    "english": "Is this your tea?"
+  },
+  {
+    "target": "吃",
+    "chinese": "你想吃什么？",
+    "pinyin": "Nǐ xiǎng chī shénme?",
+    "english": "What would you like to eat?"
+  },
+  {
+    "target": "米饭",
+    "chinese": "我中午吃米饭。",
+    "pinyin": "Wǒ zhōngwǔ chī mǐfàn.",
+    "english": "I eat rice at noon."
+  },
+  {
+    "target": "喜欢",
+    "chinese": "我妹妹喜欢看书。",
+    "pinyin": "Wǒ mèimei xǐhuan kàn shū.",
+    "english": "My younger sister likes reading."
+  },
+  {
+    "target": "学习",
+    "chinese": "我们一起学习汉语。",
+    "pinyin": "Wǒmen yìqǐ xuéxí Hànyǔ.",
+    "english": "We study Chinese together."
+  },
+  {
+    "target": "汉语",
+    "chinese": "他会说汉语吗？",
+    "pinyin": "Tā huì shuō Hànyǔ ma?",
+    "english": "Can he speak Chinese?"
+  },
+  {
+    "target": "说",
+    "chinese": "请你说慢一点。",
+    "pinyin": "Qǐng nǐ shuō màn yìdiǎn.",
+    "english": "Please speak a little slower."
+  },
+  {
+    "target": "听",
+    "chinese": "我听不懂。",
+    "pinyin": "Wǒ tīng bu dǒng.",
+    "english": "I cannot understand what I hear."
+  },
+  {
+    "target": "看",
+    "chinese": "我想看电影。",
+    "pinyin": "Wǒ xiǎng kàn diànyǐng.",
+    "english": "I want to watch a movie."
+  },
+  {
+    "target": "书",
+    "chinese": "桌子上有三本书。",
+    "pinyin": "Zhuōzi shàng yǒu sān běn shū.",
+    "english": "There are three books on the desk."
+  },
+  {
+    "target": "写",
+    "chinese": "请写你的名字。",
+    "pinyin": "Qǐng xiě nǐ de míngzi.",
+    "english": "Please write your name."
+  },
+  {
+    "target": "朋友",
+    "chinese": "我的朋友在北京工作。",
+    "pinyin": "Wǒ de péngyou zài Běijīng gōngzuò.",
+    "english": "My friend works in Beijing."
+  },
+  {
+    "target": "老师",
+    "chinese": "这个老师很忙。",
+    "pinyin": "Zhège lǎoshī hěn máng.",
+    "english": "This teacher is very busy."
+  },
+  {
+    "target": "学生",
+    "chinese": "这个学生会说英语。",
+    "pinyin": "Zhège xuésheng huì shuō Yīngyǔ.",
+    "english": "This student can speak English."
+  },
+  {
+    "target": "学校",
+    "chinese": "学校离这里很近。",
+    "pinyin": "Xuéxiào lí zhèlǐ hěn jìn.",
+    "english": "The school is very close to here."
+  },
+  {
+    "target": "今天",
+    "chinese": "今天星期几？",
+    "pinyin": "Jīntiān xīngqī jǐ?",
+    "english": "What day of the week is today?"
+  },
+  {
+    "target": "明天",
+    "chinese": "明天我们有考试。",
+    "pinyin": "Míngtiān wǒmen yǒu kǎoshì.",
+    "english": "We have an exam tomorrow."
+  },
+  {
+    "target": "现在",
+    "chinese": "现在几点了？",
+    "pinyin": "Xiànzài jǐ diǎn le?",
+    "english": "What time is it now?"
+  },
+  {
+    "target": "大",
+    "chinese": "这个苹果很大。",
+    "pinyin": "Zhège píngguǒ hěn dà.",
+    "english": "This apple is big."
+  },
+  {
+    "target": "小",
+    "chinese": "我有一个小问题。",
+    "pinyin": "Wǒ yǒu yí ge xiǎo wèntí.",
+    "english": "I have a small question."
+  },
+  {
+    "target": "买",
+    "chinese": "我想买一杯咖啡。",
+    "pinyin": "Wǒ xiǎng mǎi yì bēi kāfēi.",
+    "english": "I want to buy a cup of coffee."
+  },
+  {
+    "target": "钱",
+    "chinese": "你带钱了吗？",
+    "pinyin": "Nǐ dài qián le ma?",
+    "english": "Did you bring money?"
+  },
+  {
+    "target": "几",
+    "chinese": "你家有几个人？",
+    "pinyin": "Nǐ jiā yǒu jǐ ge rén?",
+    "english": "How many people are in your family?"
+  },
+  {
+    "target": "工作",
+    "chinese": "我爸爸在医院工作。",
+    "pinyin": "Wǒ bàba zài yīyuàn gōngzuò.",
+    "english": "My father works at a hospital."
+  },
+  {
+    "target": "高兴",
+    "chinese": "认识你很高兴。",
+    "pinyin": "Rènshi nǐ hěn gāoxìng.",
+    "english": "Nice to meet you."
+  },
+  {
+    "target": "再见",
+    "chinese": "明天见，再见！",
+    "pinyin": "Míngtiān jiàn, zàijiàn!",
+    "english": "See you tomorrow, goodbye!"
+  },
+  {
+    "target": "中国",
+    "chinese": "我明年去中国。",
+    "pinyin": "Wǒ míngnián qù Zhōngguó.",
+    "english": "I am going to China next year."
+  },
+  {
+    "target": "家",
+    "chinese": "我家有四个人。",
+    "pinyin": "Wǒ jiā yǒu sì ge rén.",
+    "english": "There are four people in my family."
+  },
+  {
+    "target": "人",
+    "chinese": "这里有很多人。",
+    "pinyin": "Zhèlǐ yǒu hěn duō rén.",
+    "english": "There are many people here."
+  },
+  {
+    "target": "电影",
+    "chinese": "我们晚上看电影。",
+    "pinyin": "Wǒmen wǎnshang kàn diànyǐng.",
+    "english": "We are watching a movie tonight."
+  },
+  {
+    "target": "叫",
+    "chinese": "你叫什么名字？",
+    "pinyin": "Nǐ jiào shénme míngzi?",
+    "english": "What is your name?"
+  },
+  {
+    "target": "什么",
+    "chinese": "你在看什么？",
+    "pinyin": "Nǐ zài kàn shénme?",
+    "english": "What are you looking at?"
+  },
+  {
+    "target": "不",
+    "chinese": "我不想去。",
+    "pinyin": "Wǒ bù xiǎng qù.",
+    "english": "I do not want to go."
+  },
+  {
+    "target": "是",
+    "chinese": "我不是老师。",
+    "pinyin": "Wǒ bú shì lǎoshī.",
+    "english": "I am not a teacher."
+  },
+  {
+    "target": "哪",
+    "chinese": "你的书在哪儿？",
+    "pinyin": "Nǐ de shū zài nǎr?",
+    "english": "Where is your book?"
+  },
+  {
+    "target": "那",
+    "chinese": "那个人是我的老师。",
+    "pinyin": "Nà ge rén shì wǒ de lǎoshī.",
+    "english": "That person is my teacher."
+  },
+  {
+    "target": "请",
+    "chinese": "请进。",
+    "pinyin": "Qǐng jìn.",
+    "english": "Please come in."
+  },
+  {
+    "target": "小",
+    "chinese": "这只狗很小。",
+    "pinyin": "Zhè zhī gǒu hěn xiǎo.",
+    "english": "This dog is small."
+  },
+  {
+    "target": "大",
+    "chinese": "这是一个大问题。",
+    "pinyin": "Zhè shì yí ge dà wèntí.",
+    "english": "This is a big question."
+  },
+  {
+    "target": "写",
+    "chinese": "我每天写汉字。",
+    "pinyin": "Wǒ měitiān xiě Hànzì.",
+    "english": "I write Chinese characters every day."
+  },
+  {
+    "target": "看",
+    "chinese": "你在看什么书？",
+    "pinyin": "Nǐ zài kàn shénme shū?",
+    "english": "What book are you reading?"
+  },
+  {
+    "target": "吃",
+    "chinese": "我们一起吃饭吧。",
+    "pinyin": "Wǒmen yìqǐ chī fàn ba.",
+    "english": "Let us eat together."
+  },
+  {
+    "target": "买",
+    "chinese": "这个太贵了，我不买。",
+    "pinyin": "Zhège tài guì le, wǒ bù mǎi.",
+    "english": "This is too expensive; I will not buy it."
+  },
+  {
+    "target": "喝",
+    "chinese": "你喝咖啡还是喝茶？",
+    "pinyin": "Nǐ hē kāfēi háishi hē chá?",
+    "english": "Do you drink coffee or tea?"
+  },
+  {
+    "target": "妈妈",
+    "chinese": "妈妈今天很忙。",
+    "pinyin": "Māma jīntiān hěn máng.",
+    "english": "Mom is busy today."
+  },
+  {
+    "target": "爸爸",
+    "chinese": "我爸爸会做饭。",
+    "pinyin": "Wǒ bàba huì zuò fàn.",
+    "english": "My father can cook."
+  },
+  {
+    "target": "水果",
+    "chinese": "我每天吃水果。",
+    "pinyin": "Wǒ měitiān chī shuǐguǒ.",
+    "english": "I eat fruit every day."
+  },
+  {
+    "target": "苹果",
+    "chinese": "这个苹果多少钱？",
+    "pinyin": "Zhège píngguǒ duōshao qián?",
+    "english": "How much does this apple cost?"
+  },
+  {
+    "target": "桌子",
+    "chinese": "书在桌子上。",
+    "pinyin": "Shū zài zhuōzi shàng.",
+    "english": "The book is on the table."
+  },
+  {
+    "target": "椅子",
+    "chinese": "请坐在椅子上。",
+    "pinyin": "Qǐng zuò zài yǐzi shàng.",
+    "english": "Please sit on the chair."
+  },
+  {
+    "target": "杯子",
+    "chinese": "这个杯子是我的。",
+    "pinyin": "Zhège bēizi shì wǒ de.",
+    "english": "This cup is mine."
+  },
+  {
+    "target": "医院",
+    "chinese": "医院在学校旁边。",
+    "pinyin": "Yīyuàn zài xuéxiào pángbiān.",
+    "english": "The hospital is next to the school."
+  },
+  {
+    "target": "医生",
+    "chinese": "医生今天不在医院。",
+    "pinyin": "Yīshēng jīntiān bú zài yīyuàn.",
+    "english": "The doctor is not at the hospital today."
+  },
+  {
+    "target": "飞机",
+    "chinese": "飞机几点到？",
+    "pinyin": "Fēijī jǐ diǎn dào?",
+    "english": "What time does the plane arrive?"
+  },
+  {
+    "target": "星期",
+    "chinese": "下个星期你有时间吗？",
+    "pinyin": "Xià ge xīngqī nǐ yǒu shíjiān ma?",
+    "english": "Do you have time next week?"
+  },
+  {
+    "target": "时间",
+    "chinese": "现在没有时间。",
+    "pinyin": "Xiànzài méiyǒu shíjiān.",
+    "english": "There is no time now."
+  },
+  {
+    "target": "猫",
+    "chinese": "这只猫在睡觉。",
+    "pinyin": "Zhè zhī māo zài shuìjiào.",
+    "english": "This cat is sleeping."
+  },
+  {
+    "target": "狗",
+    "chinese": "我喜欢这只狗。",
+    "pinyin": "Wǒ xǐhuan zhè zhī gǒu.",
+    "english": "I like this dog."
+  },
+  {
+    "target": "电脑",
+    "chinese": "我的电脑在桌子上。",
+    "pinyin": "Wǒ de diànnǎo zài zhuōzi shàng.",
+    "english": "My computer is on the desk."
+  },
+  {
+    "target": "电视",
+    "chinese": "你喜欢看电视吗？",
+    "pinyin": "Nǐ xǐhuan kàn diànshì ma?",
+    "english": "Do you like watching television?"
+  },
+  {
+    "target": "跑步",
+    "chinese": "我早上跑步。",
+    "pinyin": "Wǒ zǎoshang pǎobù.",
+    "english": "I run in the morning."
+  },
+  {
+    "target": "游泳",
+    "chinese": "他喜欢游泳。",
+    "pinyin": "Tā xǐhuan yóuyǒng.",
+    "english": "He likes swimming."
+  },
+  {
+    "target": "生日",
+    "chinese": "今天是我的生日。",
+    "pinyin": "Jīntiān shì wǒ de shēngrì.",
+    "english": "Today is my birthday."
+  },
+  {
+    "target": "帮助",
+    "chinese": "谢谢你的帮助。",
+    "pinyin": "Xièxie nǐ de bāngzhù.",
+    "english": "Thank you for your help."
+  },
+  {
+    "target": "问题",
+    "chinese": "我有一个问题。",
+    "pinyin": "Wǒ yǒu yí ge wèntí.",
+    "english": "I have a question."
+  },
+  {
+    "target": "面条",
+    "chinese": "我想吃面条。",
+    "pinyin": "Wǒ xiǎng chī miàntiáo.",
+    "english": "I want to eat noodles."
+  },
+  {
+    "target": "牛奶",
+    "chinese": "早上我喝牛奶。",
+    "pinyin": "Zǎoshang wǒ hē niúnǎi.",
+    "english": "I drink milk in the morning."
+  },
+  {
+    "target": "鸡蛋",
+    "chinese": "我想吃两个鸡蛋。",
+    "pinyin": "Wǒ xiǎng chī liǎng ge jīdàn.",
+    "english": "I want to eat two eggs."
+  },
+  {
+    "target": "便宜",
+    "chinese": "这件衣服很便宜。",
+    "pinyin": "Zhè jiàn yīfu hěn piányi.",
+    "english": "This piece of clothing is cheap."
+  },
+  {
+    "target": "贵",
+    "chinese": "这个太贵了。",
+    "pinyin": "Zhège tài guì le.",
+    "english": "This is too expensive."
+  },
+  {
+    "target": "远",
+    "chinese": "你家离学校远吗？",
+    "pinyin": "Nǐ jiā lí xuéxiào yuǎn ma?",
+    "english": "Is your home far from school?"
+  },
+  {
+    "target": "近",
+    "chinese": "学校离我家很近。",
+    "pinyin": "Xuéxiào lí wǒ jiā hěn jìn.",
+    "english": "The school is close to my home."
+  },
+  {
+    "target": "认识",
+    "chinese": "我认识那个老师。",
+    "pinyin": "Wǒ rènshi nà ge lǎoshī.",
+    "english": "I know that teacher."
+  },
+  {
+    "target": "爱",
+    "chinese": "我爱我的家人。",
+    "pinyin": "Wǒ ài wǒ de jiārén.",
+    "english": "I love my family."
+  },
+  {
+    "target": "八",
+    "chinese": "我们八点见。",
+    "pinyin": "Wǒmen bā diǎn jiàn.",
+    "english": "Let us meet at eight."
+  },
+  {
+    "target": "北京",
+    "chinese": "北京今天下雨。",
+    "pinyin": "Běijīng jīntiān xiàyǔ.",
+    "english": "It is raining in Beijing today."
+  },
+  {
+    "target": "本",
+    "chinese": "我有两本书。",
+    "pinyin": "Wǒ yǒu liǎng běn shū.",
+    "english": "I have two books."
+  },
+  {
+    "target": "菜",
+    "chinese": "这个菜很好吃。",
+    "pinyin": "Zhège cài hěn hǎochī.",
+    "english": "This dish tastes good."
+  },
+  {
+    "target": "出租车",
+    "chinese": "我们坐出租车去。",
+    "pinyin": "Wǒmen zuò chūzūchē qù.",
+    "english": "We are going by taxi."
+  },
+  {
+    "target": "打电话",
+    "chinese": "请给我打电话。",
+    "pinyin": "Qǐng gěi wǒ dǎ diànhuà.",
+    "english": "Please call me."
+  },
+  {
+    "target": "的",
+    "chinese": "这是我的书。",
+    "pinyin": "Zhè shì wǒ de shū.",
+    "english": "This is my book."
+  },
+  {
+    "target": "点",
+    "chinese": "现在八点。",
+    "pinyin": "Xiànzài bā diǎn.",
+    "english": "It is eight o’clock now."
+  },
+  {
+    "target": "东西",
+    "chinese": "你买了什么东西？",
+    "pinyin": "Nǐ mǎi le shénme dōngxi?",
+    "english": "What things did you buy?"
+  },
+  {
+    "target": "都",
+    "chinese": "我们都是学生。",
+    "pinyin": "Wǒmen dōu shì xuésheng.",
+    "english": "We are all students."
+  },
+  {
+    "target": "多",
+    "chinese": "这里有很多书。",
+    "pinyin": "Zhèlǐ yǒu hěn duō shū.",
+    "english": "There are many books here."
+  },
+  {
+    "target": "儿子",
+    "chinese": "他儿子今年五岁。",
+    "pinyin": "Tā érzi jīnnián wǔ suì.",
+    "english": "His son is five this year."
+  },
+  {
+    "target": "二",
+    "chinese": "今天是二号。",
+    "pinyin": "Jīntiān shì èr hào.",
+    "english": "Today is the second."
+  },
+  {
+    "target": "饭店",
+    "chinese": "我们去饭店吃饭。",
+    "pinyin": "Wǒmen qù fàndiàn chī fàn.",
+    "english": "We are going to a restaurant to eat."
+  },
+  {
+    "target": "分钟",
+    "chinese": "请等五分钟。",
+    "pinyin": "Qǐng děng wǔ fēnzhōng.",
+    "english": "Please wait five minutes."
+  },
+  {
+    "target": "个",
+    "chinese": "我有三个苹果。",
+    "pinyin": "Wǒ yǒu sān ge píngguǒ.",
+    "english": "I have three apples."
+  },
+  {
+    "target": "号",
+    "chinese": "今天是八号。",
+    "pinyin": "Jīntiān shì bā hào.",
+    "english": "Today is the eighth."
+  },
+  {
+    "target": "和",
+    "chinese": "我和朋友去学校。",
+    "pinyin": "Wǒ hé péngyou qù xuéxiào.",
+    "english": "My friend and I are going to school."
+  },
+  {
+    "target": "很",
+    "chinese": "今天很冷。",
+    "pinyin": "Jīntiān hěn lěng.",
+    "english": "It is very cold today."
+  },
+  {
+    "target": "回",
+    "chinese": "我下午回家。",
+    "pinyin": "Wǒ xiàwǔ huí jiā.",
+    "english": "I am going home in the afternoon."
+  },
+  {
+    "target": "九",
+    "chinese": "我九点起床。",
+    "pinyin": "Wǒ jiǔ diǎn qǐchuáng.",
+    "english": "I get up at nine."
+  },
+  {
+    "target": "开",
+    "chinese": "请开门。",
+    "pinyin": "Qǐng kāi mén.",
+    "english": "Please open the door."
+  },
+  {
+    "target": "看见",
+    "chinese": "我看见老师了。",
+    "pinyin": "Wǒ kànjiàn lǎoshī le.",
+    "english": "I saw the teacher."
+  },
+  {
+    "target": "块",
+    "chinese": "这本书十块钱。",
+    "pinyin": "Zhè běn shū shí kuài qián.",
+    "english": "This book costs ten yuan."
+  },
+  {
+    "target": "了",
+    "chinese": "我吃饭了。",
+    "pinyin": "Wǒ chī fàn le.",
+    "english": "I have eaten."
+  },
+  {
+    "target": "冷",
+    "chinese": "外面很冷。",
+    "pinyin": "Wàimiàn hěn lěng.",
+    "english": "It is cold outside."
+  },
+  {
+    "target": "里",
+    "chinese": "书在包里。",
+    "pinyin": "Shū zài bāo lǐ.",
+    "english": "The book is in the bag."
+  },
+  {
+    "target": "六",
+    "chinese": "我们六点吃饭。",
+    "pinyin": "Wǒmen liù diǎn chī fàn.",
+    "english": "We eat at six."
+  },
+  {
+    "target": "没",
+    "chinese": "我没看见他。",
+    "pinyin": "Wǒ méi kànjiàn tā.",
+    "english": "I did not see him."
+  },
+  {
+    "target": "没关系",
+    "chinese": "没关系，我们再试一次。",
+    "pinyin": "Méi guānxi, wǒmen zài shì yí cì.",
+    "english": "It is okay, we can try again."
+  },
+  {
+    "target": "呢",
+    "chinese": "你呢？",
+    "pinyin": "Nǐ ne?",
+    "english": "And you?"
+  },
+  {
+    "target": "能",
+    "chinese": "你能帮我吗？",
+    "pinyin": "Nǐ néng bāng wǒ ma?",
+    "english": "Can you help me?"
+  },
+  {
+    "target": "年",
+    "chinese": "我明年去中国。",
+    "pinyin": "Wǒ míngnián qù Zhōngguó.",
+    "english": "I am going to China next year."
+  },
+  {
+    "target": "女儿",
+    "chinese": "她女儿今年三岁。",
+    "pinyin": "Tā nǚ’ér jīnnián sān suì.",
+    "english": "Her daughter is three this year."
+  },
+  {
+    "target": "漂亮",
+    "chinese": "这件衣服很漂亮。",
+    "pinyin": "Zhè jiàn yīfu hěn piàoliang.",
+    "english": "This piece of clothing is beautiful."
+  },
+  {
+    "target": "七",
+    "chinese": "我们七点见。",
+    "pinyin": "Wǒmen qī diǎn jiàn.",
+    "english": "Let us meet at seven."
+  },
+  {
+    "target": "前面",
+    "chinese": "饭店在学校前面。",
+    "pinyin": "Fàndiàn zài xuéxiào qiánmiàn.",
+    "english": "The restaurant is in front of the school."
+  },
+  {
+    "target": "热",
+    "chinese": "今天太热了。",
+    "pinyin": "Jīntiān tài rè le.",
+    "english": "It is too hot today."
+  },
+  {
+    "target": "三",
+    "chinese": "我有三个朋友。",
+    "pinyin": "Wǒ yǒu sān ge péngyou.",
+    "english": "I have three friends."
+  },
+  {
+    "target": "商店",
+    "chinese": "商店八点开门。",
+    "pinyin": "Shāngdiàn bā diǎn kāi mén.",
+    "english": "The shop opens at eight."
+  },
+  {
+    "target": "上",
+    "chinese": "书在桌子上。",
+    "pinyin": "Shū zài zhuōzi shàng.",
+    "english": "The book is on the desk."
+  },
+  {
+    "target": "上午",
+    "chinese": "我上午有课。",
+    "pinyin": "Wǒ shàngwǔ yǒu kè.",
+    "english": "I have class in the morning."
+  },
+  {
+    "target": "少",
+    "chinese": "今天人很少。",
+    "pinyin": "Jīntiān rén hěn shǎo.",
+    "english": "There are very few people today."
+  },
+  {
+    "target": "谁",
+    "chinese": "他是谁？",
+    "pinyin": "Tā shì shéi?",
+    "english": "Who is he?"
+  },
+  {
+    "target": "十",
+    "chinese": "这本书十块钱。",
+    "pinyin": "Zhè běn shū shí kuài qián.",
+    "english": "This book costs ten yuan."
+  },
+  {
+    "target": "时候",
+    "chinese": "你什么时候去？",
+    "pinyin": "Nǐ shénme shíhou qù?",
+    "english": "When are you going?"
+  },
+  {
+    "target": "睡觉",
+    "chinese": "我十点睡觉。",
+    "pinyin": "Wǒ shí diǎn shuìjiào.",
+    "english": "I go to sleep at ten."
+  },
+  {
+    "target": "四",
+    "chinese": "我家有四个人。",
+    "pinyin": "Wǒ jiā yǒu sì ge rén.",
+    "english": "My family has four people."
+  },
+  {
+    "target": "岁",
+    "chinese": "我弟弟八岁。",
+    "pinyin": "Wǒ dìdi bā suì.",
+    "english": "My little brother is eight."
+  },
+  {
+    "target": "太",
+    "chinese": "今天太冷了。",
+    "pinyin": "Jīntiān tài lěng le.",
+    "english": "It is too cold today."
+  },
+  {
+    "target": "同学",
+    "chinese": "他是我的同学。",
+    "pinyin": "Tā shì wǒ de tóngxué.",
+    "english": "He is my classmate."
+  },
+  {
+    "target": "喂",
+    "chinese": "喂，你好！",
+    "pinyin": "Wèi, nǐ hǎo!",
+    "english": "Hello? Hi!"
+  },
+  {
+    "target": "我们",
+    "chinese": "我们一起走吧。",
+    "pinyin": "Wǒmen yìqǐ zǒu ba.",
+    "english": "Let us go together."
+  },
+  {
+    "target": "五",
+    "chinese": "我买五个苹果。",
+    "pinyin": "Wǒ mǎi wǔ ge píngguǒ.",
+    "english": "I am buying five apples."
+  },
+  {
+    "target": "下",
+    "chinese": "猫在桌子下。",
+    "pinyin": "Māo zài zhuōzi xià.",
+    "english": "The cat is under the table."
+  },
+  {
+    "target": "下午",
+    "chinese": "下午我们去公园。",
+    "pinyin": "Xiàwǔ wǒmen qù gōngyuán.",
+    "english": "In the afternoon, we are going to the park."
+  },
+  {
+    "target": "下雨",
+    "chinese": "明天会下雨吗？",
+    "pinyin": "Míngtiān huì xiàyǔ ma?",
+    "english": "Will it rain tomorrow?"
+  },
+  {
+    "target": "先生",
+    "chinese": "王先生是老师。",
+    "pinyin": "Wáng xiānsheng shì lǎoshī.",
+    "english": "Mr. Wang is a teacher."
+  },
+  {
+    "target": "想",
+    "chinese": "我想喝水。",
+    "pinyin": "Wǒ xiǎng hē shuǐ.",
+    "english": "I would like to drink water."
+  },
+  {
+    "target": "小姐",
+    "chinese": "李小姐在办公室。",
+    "pinyin": "Lǐ xiǎojiě zài bàngōngshì.",
+    "english": "Miss Li is in the office."
+  },
+  {
+    "target": "些",
+    "chinese": "我买了一些水果。",
+    "pinyin": "Wǒ mǎi le yìxiē shuǐguǒ.",
+    "english": "I bought some fruit."
+  },
+  {
+    "target": "一",
+    "chinese": "我有一本书。",
+    "pinyin": "Wǒ yǒu yì běn shū.",
+    "english": "I have one book."
+  },
+  {
+    "target": "衣服",
+    "chinese": "我想买新衣服。",
+    "pinyin": "Wǒ xiǎng mǎi xīn yīfu.",
+    "english": "I want to buy new clothes."
+  },
+  {
+    "target": "月",
+    "chinese": "下个月我去北京。",
+    "pinyin": "Xià ge yuè wǒ qù Běijīng.",
+    "english": "Next month I am going to Beijing."
+  },
+  {
+    "target": "怎么",
+    "chinese": "这个字怎么读？",
+    "pinyin": "Zhège zì zěnme dú?",
+    "english": "How do you pronounce this character?"
+  },
+  {
+    "target": "怎么样",
+    "chinese": "这件衣服怎么样？",
+    "pinyin": "Zhè jiàn yīfu zěnmeyàng?",
+    "english": "How is this outfit?"
+  },
+  {
+    "target": "这",
+    "chinese": "这是我的家。",
+    "pinyin": "Zhè shì wǒ de jiā.",
+    "english": "This is my home."
+  },
+  {
+    "target": "中午",
+    "chinese": "我们中午吃饭。",
+    "pinyin": "Wǒmen zhōngwǔ chī fàn.",
+    "english": "We eat at noon."
+  },
+  {
+    "target": "住",
+    "chinese": "我住在北京。",
+    "pinyin": "Wǒ zhù zài Běijīng.",
+    "english": "I live in Beijing."
+  },
+  {
+    "target": "字",
+    "chinese": "这个字怎么写？",
+    "pinyin": "Zhège zì zěnme xiě?",
+    "english": "How do you write this character?"
+  },
+  {
+    "target": "昨天",
+    "chinese": "昨天我没上班。",
+    "pinyin": "Zuótiān wǒ méi shàngbān.",
+    "english": "I did not go to work yesterday."
+  },
+  {
+    "target": "坐",
+    "chinese": "请坐在这里。",
+    "pinyin": "Qǐng zuò zài zhèlǐ.",
+    "english": "Please sit here."
+  },
+  {
+    "target": "做",
+    "chinese": "你会做饭吗？",
+    "pinyin": "Nǐ huì zuò fàn ma?",
+    "english": "Can you cook?"
+  },
+  {
+    "target": "吧",
+    "chinese": "我们走吧。",
+    "pinyin": "Wǒmen zǒu ba.",
+    "english": "Let us go."
+  },
+  {
+    "target": "白",
+    "chinese": "我喜欢白色。",
+    "pinyin": "Wǒ xǐhuan báisè.",
+    "english": "I like white."
+  },
+  {
+    "target": "百",
+    "chinese": "这里有一百个人。",
+    "pinyin": "Zhèlǐ yǒu yì bǎi ge rén.",
+    "english": "There are one hundred people here."
+  },
+  {
+    "target": "报纸",
+    "chinese": "爷爷每天看报纸。",
+    "pinyin": "Yéye měitiān kàn bàozhǐ.",
+    "english": "Grandpa reads the newspaper every day."
+  },
+  {
+    "target": "比",
+    "chinese": "他比我高。",
+    "pinyin": "Tā bǐ wǒ gāo.",
+    "english": "He is taller than me."
+  },
+  {
+    "target": "别",
+    "chinese": "别说话。",
+    "pinyin": "Bié shuōhuà.",
+    "english": "Do not talk."
+  },
+  {
+    "target": "宾馆",
+    "chinese": "宾馆离车站很近。",
+    "pinyin": "Bīnguǎn lí chēzhàn hěn jìn.",
+    "english": "The hotel is near the station."
+  },
+  {
+    "target": "长",
+    "chinese": "这条路很长。",
+    "pinyin": "Zhè tiáo lù hěn cháng.",
+    "english": "This road is long."
+  },
+  {
+    "target": "唱歌",
+    "chinese": "她喜欢唱歌。",
+    "pinyin": "Tā xǐhuan chànggē.",
+    "english": "She likes singing."
+  },
+  {
+    "target": "出",
+    "chinese": "请从这个门出去。",
+    "pinyin": "Qǐng cóng zhège mén chūqù.",
+    "english": "Please exit through this door."
+  },
+  {
+    "target": "穿",
+    "chinese": "今天我穿红衣服。",
+    "pinyin": "Jīntiān wǒ chuān hóng yīfu.",
+    "english": "Today I am wearing red clothes."
+  },
+  {
+    "target": "次",
+    "chinese": "我去过中国两次。",
+    "pinyin": "Wǒ qù guo Zhōngguó liǎng cì.",
+    "english": "I have been to China twice."
+  },
+  {
+    "target": "从",
+    "chinese": "我从学校回家。",
+    "pinyin": "Wǒ cóng xuéxiào huí jiā.",
+    "english": "I go home from school."
+  },
+  {
+    "target": "错",
+    "chinese": "这个答案错了。",
+    "pinyin": "Zhège dá’àn cuò le.",
+    "english": "This answer is wrong."
+  },
+  {
+    "target": "打篮球",
+    "chinese": "我下午打篮球。",
+    "pinyin": "Wǒ xiàwǔ dǎ lánqiú.",
+    "english": "I play basketball in the afternoon."
+  },
+  {
+    "target": "大家",
+    "chinese": "大家好！",
+    "pinyin": "Dàjiā hǎo!",
+    "english": "Hello, everyone!"
+  },
+  {
+    "target": "到",
+    "chinese": "你几点到学校？",
+    "pinyin": "Nǐ jǐ diǎn dào xuéxiào?",
+    "english": "What time do you arrive at school?"
+  },
+  {
+    "target": "等",
+    "chinese": "请在这里等我。",
+    "pinyin": "Qǐng zài zhèlǐ děng wǒ.",
+    "english": "Please wait for me here."
+  },
+  {
+    "target": "弟弟",
+    "chinese": "我弟弟喜欢足球。",
+    "pinyin": "Wǒ dìdi xǐhuan zúqiú.",
+    "english": "My younger brother likes football."
+  },
+  {
+    "target": "第一",
+    "chinese": "这是我的第一本书。",
+    "pinyin": "Zhè shì wǒ de dì-yī běn shū.",
+    "english": "This is my first book."
+  },
+  {
+    "target": "懂",
+    "chinese": "你听懂了吗？",
+    "pinyin": "Nǐ tīng dǒng le ma?",
+    "english": "Did you understand what you heard?"
+  },
+  {
+    "target": "对",
+    "chinese": "你说得对。",
+    "pinyin": "Nǐ shuō de duì.",
+    "english": "You are right."
+  },
+  {
+    "target": "房间",
+    "chinese": "这个房间很大。",
+    "pinyin": "Zhège fángjiān hěn dà.",
+    "english": "This room is large."
+  },
+  {
+    "target": "非常",
+    "chinese": "她非常喜欢音乐。",
+    "pinyin": "Tā fēicháng xǐhuan yīnyuè.",
+    "english": "She likes music very much."
+  },
+  {
+    "target": "服务员",
+    "chinese": "服务员，请给我水。",
+    "pinyin": "Fúwùyuán, qǐng gěi wǒ shuǐ.",
+    "english": "Server, please bring me water."
+  },
+  {
+    "target": "高",
+    "chinese": "他很高。",
+    "pinyin": "Tā hěn gāo.",
+    "english": "He is tall."
+  },
+  {
+    "target": "告诉",
+    "chinese": "请告诉我你的名字。",
+    "pinyin": "Qǐng gàosu wǒ nǐ de míngzi.",
+    "english": "Please tell me your name."
+  },
+  {
+    "target": "哥哥",
+    "chinese": "我哥哥是医生。",
+    "pinyin": "Wǒ gēge shì yīshēng.",
+    "english": "My older brother is a doctor."
+  },
+  {
+    "target": "公共汽车",
+    "chinese": "我们坐公共汽车。",
+    "pinyin": "Wǒmen zuò gōnggòng qìchē.",
+    "english": "We are taking the bus."
+  },
+  {
+    "target": "公司",
+    "chinese": "我在这家公司工作。",
+    "pinyin": "Wǒ zài zhè jiā gōngsī gōngzuò.",
+    "english": "I work at this company."
+  },
+  {
+    "target": "孩子",
+    "chinese": "这个孩子五岁。",
+    "pinyin": "Zhège háizi wǔ suì.",
+    "english": "This child is five."
+  },
+  {
+    "target": "还",
+    "chinese": "他还在学校。",
+    "pinyin": "Tā hái zài xuéxiào.",
+    "english": "He is still at school."
+  },
+  {
+    "target": "黑",
+    "chinese": "我喜欢黑色。",
+    "pinyin": "Wǒ xǐhuan hēisè.",
+    "english": "I like black."
+  },
+  {
+    "target": "红",
+    "chinese": "这是我的红书包。",
+    "pinyin": "Zhè shì wǒ de hóng shūbāo.",
+    "english": "This is my red school bag."
+  },
+  {
+    "target": "欢迎",
+    "chinese": "欢迎来我家。",
+    "pinyin": "Huānyíng lái wǒ jiā.",
+    "english": "Welcome to my home."
+  },
+  {
+    "target": "回答",
+    "chinese": "请回答这个问题。",
+    "pinyin": "Qǐng huídá zhège wèntí.",
+    "english": "Please answer this question."
+  },
+  {
+    "target": "机场",
+    "chinese": "我去机场接朋友。",
+    "pinyin": "Wǒ qù jīchǎng jiē péngyou.",
+    "english": "I am going to the airport to pick up a friend."
+  },
+  {
+    "target": "件",
+    "chinese": "我买了一件衣服。",
+    "pinyin": "Wǒ mǎi le yí jiàn yīfu.",
+    "english": "I bought one item of clothing."
+  },
+  {
+    "target": "教室",
+    "chinese": "学生在教室里。",
+    "pinyin": "Xuésheng zài jiàoshì lǐ.",
+    "english": "The students are in the classroom."
+  },
+  {
+    "target": "姐姐",
+    "chinese": "我姐姐在北京工作。",
+    "pinyin": "Wǒ jiějie zài Běijīng gōngzuò.",
+    "english": "My older sister works in Beijing."
+  },
+  {
+    "target": "介绍",
+    "chinese": "我来介绍一下。",
+    "pinyin": "Wǒ lái jièshào yíxià.",
+    "english": "Let me make an introduction."
+  },
+  {
+    "target": "进",
+    "chinese": "请进。",
+    "pinyin": "Qǐng jìn.",
+    "english": "Please come in."
+  },
+  {
+    "target": "就",
+    "chinese": "我马上就来。",
+    "pinyin": "Wǒ mǎshàng jiù lái.",
+    "english": "I will be right there."
+  },
+  {
+    "target": "咖啡",
+    "chinese": "我不喝咖啡。",
+    "pinyin": "Wǒ bù hē kāfēi.",
+    "english": "I do not drink coffee."
+  },
+  {
+    "target": "开始",
+    "chinese": "我们现在开始。",
+    "pinyin": "Wǒmen xiànzài kāishǐ.",
+    "english": "We are starting now."
+  },
+  {
+    "target": "考试",
+    "chinese": "明天有考试。",
+    "pinyin": "Míngtiān yǒu kǎoshì.",
+    "english": "There is an exam tomorrow."
+  },
+  {
+    "target": "可能",
+    "chinese": "他明天可能不来。",
+    "pinyin": "Tā míngtiān kěnéng bù lái.",
+    "english": "He might not come tomorrow."
+  },
+  {
+    "target": "课",
+    "chinese": "今天我有两节课。",
+    "pinyin": "Jīntiān wǒ yǒu liǎng jié kè.",
+    "english": "I have two classes today."
+  },
+  {
+    "target": "快",
+    "chinese": "你走得很快。",
+    "pinyin": "Nǐ zǒu de hěn kuài.",
+    "english": "You walk quickly."
+  },
+  {
+    "target": "快乐",
+    "chinese": "祝你生日快乐！",
+    "pinyin": "Zhù nǐ shēngrì kuàilè!",
+    "english": "Happy birthday to you!"
+  },
+  {
+    "target": "累",
+    "chinese": "我今天很累。",
+    "pinyin": "Wǒ jīntiān hěn lèi.",
+    "english": "I am very tired today."
+  },
+  {
+    "target": "离",
+    "chinese": "这里离学校很近。",
+    "pinyin": "Zhèlǐ lí xuéxiào hěn jìn.",
+    "english": "It is close to the school from here."
+  },
+  {
+    "target": "两",
+    "chinese": "我有两个妹妹。",
+    "pinyin": "Wǒ yǒu liǎng ge mèimei.",
+    "english": "I have two younger sisters."
+  },
+  {
+    "target": "零",
+    "chinese": "我的电话号码有三个零。",
+    "pinyin": "Wǒ de diànhuà hàomǎ yǒu sān ge líng.",
+    "english": "My phone number has three zeros."
+  },
+  {
+    "target": "路",
+    "chinese": "这条路很长。",
+    "pinyin": "Zhè tiáo lù hěn cháng.",
+    "english": "This road is long."
+  },
+  {
+    "target": "旅游",
+    "chinese": "我们去中国旅游。",
+    "pinyin": "Wǒmen qù Zhōngguó lǚyóu.",
+    "english": "We are traveling to China."
+  },
+  {
+    "target": "卖",
+    "chinese": "这家商店卖水果。",
+    "pinyin": "Zhè jiā shāngdiàn mài shuǐguǒ.",
+    "english": "This shop sells fruit."
+  },
+  {
+    "target": "慢",
+    "chinese": "请说慢一点。",
+    "pinyin": "Qǐng shuō màn yìdiǎn.",
+    "english": "Please speak a little more slowly."
+  },
+  {
+    "target": "忙",
+    "chinese": "老师今天很忙。",
+    "pinyin": "Lǎoshī jīntiān hěn máng.",
+    "english": "The teacher is very busy today."
+  },
+  {
+    "target": "每",
+    "chinese": "我每天都学习汉语。",
+    "pinyin": "Wǒ měitiān dōu xuéxí Hànyǔ.",
+    "english": "I study Chinese every day."
+  },
+  {
+    "target": "妹妹",
+    "chinese": "我妹妹喜欢苹果。",
+    "pinyin": "Wǒ mèimei xǐhuan píngguǒ.",
+    "english": "My little sister likes apples."
+  },
+  {
+    "target": "门",
+    "chinese": "请关门。",
+    "pinyin": "Qǐng guān mén.",
+    "english": "Please close the door."
+  },
+  {
+    "target": "男",
+    "chinese": "他是男学生。",
+    "pinyin": "Tā shì nán xuésheng.",
+    "english": "He is a male student."
+  },
+  {
+    "target": "您",
+    "chinese": "您好，王老师。",
+    "pinyin": "Nín hǎo, Wáng lǎoshī.",
+    "english": "Hello, Teacher Wang."
+  },
+  {
+    "target": "旁边",
+    "chinese": "我坐在他旁边。",
+    "pinyin": "Wǒ zuò zài tā pángbiān.",
+    "english": "I sit next to him."
+  },
+  {
+    "target": "票",
+    "chinese": "我买了两张票。",
+    "pinyin": "Wǒ mǎi le liǎng zhāng piào.",
+    "english": "I bought two tickets."
+  },
+  {
+    "target": "妻子",
+    "chinese": "他的妻子是医生。",
+    "pinyin": "Tā de qīzi shì yīshēng.",
+    "english": "His wife is a doctor."
+  },
+  {
+    "target": "起床",
+    "chinese": "我每天七点起床。",
+    "pinyin": "Wǒ měitiān qī diǎn qǐchuáng.",
+    "english": "I get up at seven every day."
+  },
+  {
+    "target": "千",
+    "chinese": "这台电脑两千块。",
+    "pinyin": "Zhè tái diànnǎo liǎng qiān kuài.",
+    "english": "This computer costs two thousand yuan."
+  },
+  {
+    "target": "铅笔",
+    "chinese": "我用铅笔写字。",
+    "pinyin": "Wǒ yòng qiānbǐ xiě zì.",
+    "english": "I write with a pencil."
+  },
+  {
+    "target": "晴",
+    "chinese": "今天天气晴。",
+    "pinyin": "Jīntiān tiānqì qíng.",
+    "english": "The weather is sunny today."
+  },
+  {
+    "target": "去年",
+    "chinese": "去年我在北京。",
+    "pinyin": "Qùnián wǒ zài Běijīng.",
+    "english": "I was in Beijing last year."
+  },
+  {
+    "target": "让",
+    "chinese": "请让我看一下。",
+    "pinyin": "Qǐng ràng wǒ kàn yíxià.",
+    "english": "Please let me take a look."
+  },
+  {
+    "target": "日",
+    "chinese": "今天是十月一日。",
+    "pinyin": "Jīntiān shì shí yuè yī rì.",
+    "english": "Today is October 1."
+  },
+  {
+    "target": "上班",
+    "chinese": "我八点上班。",
+    "pinyin": "Wǒ bā diǎn shàngbān.",
+    "english": "I start work at eight."
+  },
+  {
+    "target": "身体",
+    "chinese": "你身体怎么样？",
+    "pinyin": "Nǐ shēntǐ zěnmeyàng?",
+    "english": "How is your health?"
+  },
+  {
+    "target": "生病",
+    "chinese": "我昨天生病了。",
+    "pinyin": "Wǒ zuótiān shēngbìng le.",
+    "english": "I was sick yesterday."
+  },
+  {
+    "target": "事情",
+    "chinese": "我有一点事情。",
+    "pinyin": "Wǒ yǒu yìdiǎn shìqing.",
+    "english": "I have something to take care of."
+  },
+  {
+    "target": "手表",
+    "chinese": "这是我的手表。",
+    "pinyin": "Zhè shì wǒ de shǒubiǎo.",
+    "english": "This is my watch."
+  },
+  {
+    "target": "手机",
+    "chinese": "我的手机在桌子上。",
+    "pinyin": "Wǒ de shǒujī zài zhuōzi shàng.",
+    "english": "My phone is on the table."
+  },
+  {
+    "target": "送",
+    "chinese": "我送你一本书。",
+    "pinyin": "Wǒ sòng nǐ yì běn shū.",
+    "english": "I am giving you a book."
+  },
+  {
+    "target": "所以",
+    "chinese": "今天下雨，所以我不去。",
+    "pinyin": "Jīntiān xiàyǔ, suǒyǐ wǒ bú qù.",
+    "english": "It is raining today, so I will not go."
+  },
+  {
+    "target": "它",
+    "chinese": "它是一只猫。",
+    "pinyin": "Tā shì yì zhī māo.",
+    "english": "It is a cat."
+  },
+  {
+    "target": "踢足球",
+    "chinese": "我们下午踢足球。",
+    "pinyin": "Wǒmen xiàwǔ tī zúqiú.",
+    "english": "We are playing football this afternoon."
+  },
+  {
+    "target": "题",
+    "chinese": "这道题很难。",
+    "pinyin": "Zhè dào tí hěn nán.",
+    "english": "This question is difficult."
+  },
+  {
+    "target": "跳舞",
+    "chinese": "我妹妹喜欢跳舞。",
+    "pinyin": "Wǒ mèimei xǐhuan tiàowǔ.",
+    "english": "My little sister likes dancing."
+  },
+  {
+    "target": "外",
+    "chinese": "学校外有一家饭店。",
+    "pinyin": "Xuéxiào wài yǒu yì jiā fàndiàn.",
+    "english": "There is a restaurant outside the school."
+  },
+  {
+    "target": "完",
+    "chinese": "我写完了。",
+    "pinyin": "Wǒ xiě wán le.",
+    "english": "I finished writing."
+  },
+  {
+    "target": "玩",
+    "chinese": "孩子们在玩。",
+    "pinyin": "Háizimen zài wán.",
+    "english": "The children are playing."
+  },
+  {
+    "target": "晚上",
+    "chinese": "我们晚上看电影。",
+    "pinyin": "Wǒmen wǎnshang kàn diànyǐng.",
+    "english": "We watch a movie in the evening."
+  },
+  {
+    "target": "往",
+    "chinese": "请往前走。",
+    "pinyin": "Qǐng wǎng qián zǒu.",
+    "english": "Please go forward."
+  },
+  {
+    "target": "为什么",
+    "chinese": "你为什么不去？",
+    "pinyin": "Nǐ wèishénme bú qù?",
+    "english": "Why are you not going?"
+  },
+  {
+    "target": "问",
+    "chinese": "我想问一个问题。",
+    "pinyin": "Wǒ xiǎng wèn yí ge wèntí.",
+    "english": "I want to ask a question."
+  },
+  {
+    "target": "西瓜",
+    "chinese": "这个西瓜很甜。",
+    "pinyin": "Zhège xīguā hěn tián.",
+    "english": "This watermelon is sweet."
+  },
+  {
+    "target": "希望",
+    "chinese": "我希望明天是晴天。",
+    "pinyin": "Wǒ xīwàng míngtiān shì qíngtiān.",
+    "english": "I hope tomorrow is sunny."
+  },
+  {
+    "target": "洗",
+    "chinese": "我去洗手。",
+    "pinyin": "Wǒ qù xǐ shǒu.",
+    "english": "I am going to wash my hands."
+  },
+  {
+    "target": "小时",
+    "chinese": "我学习了一个小时。",
+    "pinyin": "Wǒ xuéxí le yí ge xiǎoshí.",
+    "english": "I studied for an hour."
+  },
+  {
+    "target": "笑",
+    "chinese": "她笑了。",
+    "pinyin": "Tā xiào le.",
+    "english": "She smiled."
+  },
+  {
+    "target": "新",
+    "chinese": "这是我的新手机。",
+    "pinyin": "Zhè shì wǒ de xīn shǒujī.",
+    "english": "This is my new phone."
+  },
+  {
+    "target": "姓",
+    "chinese": "请问您贵姓？",
+    "pinyin": "Qǐngwèn nín guìxìng?",
+    "english": "May I ask your surname?"
+  },
+  {
+    "target": "休息",
+    "chinese": "我们休息一下吧。",
+    "pinyin": "Wǒmen xiūxi yíxià ba.",
+    "english": "Let us rest a moment."
+  },
+  {
+    "target": "雪",
+    "chinese": "今天下雪了。",
+    "pinyin": "Jīntiān xià xuě le.",
+    "english": "It snowed today."
+  },
+  {
+    "target": "颜色",
+    "chinese": "你喜欢什么颜色？",
+    "pinyin": "Nǐ xǐhuan shénme yánsè?",
+    "english": "What color do you like?"
+  },
+  {
+    "target": "眼睛",
+    "chinese": "她的眼睛很大。",
+    "pinyin": "Tā de yǎnjing hěn dà.",
+    "english": "Her eyes are big."
+  },
+  {
+    "target": "羊肉",
+    "chinese": "我不吃羊肉。",
+    "pinyin": "Wǒ bù chī yángròu.",
+    "english": "I do not eat lamb."
+  },
+  {
+    "target": "药",
+    "chinese": "你吃药了吗？",
+    "pinyin": "Nǐ chī yào le ma?",
+    "english": "Have you taken your medicine?"
+  },
+  {
+    "target": "要",
+    "chinese": "你要喝茶吗？",
+    "pinyin": "Nǐ yào hē chá ma?",
+    "english": "Would you like tea?"
+  },
+  {
+    "target": "也",
+    "chinese": "我也想去。",
+    "pinyin": "Wǒ yě xiǎng qù.",
+    "english": "I want to go too."
+  },
+  {
+    "target": "意思",
+    "chinese": "这个字是什么意思？",
+    "pinyin": "Zhège zì shì shénme yìsi?",
+    "english": "What does this character mean?"
+  },
+  {
+    "target": "阴",
+    "chinese": "今天阴天。",
+    "pinyin": "Jīntiān yīntiān.",
+    "english": "It is overcast today."
+  },
+  {
+    "target": "右边",
+    "chinese": "商店在右边。",
+    "pinyin": "Shāngdiàn zài yòubiān.",
+    "english": "The shop is on the right."
+  },
+  {
+    "target": "鱼",
+    "chinese": "我喜欢吃鱼。",
+    "pinyin": "Wǒ xǐhuan chī yú.",
+    "english": "I like eating fish."
+  },
+  {
+    "target": "运动",
+    "chinese": "我每天运动。",
+    "pinyin": "Wǒ měitiān yùndòng.",
+    "english": "I exercise every day."
+  },
+  {
+    "target": "再",
+    "chinese": "请再说一次。",
+    "pinyin": "Qǐng zài shuō yí cì.",
+    "english": "Please say it again."
+  },
+  {
+    "target": "早上",
+    "chinese": "我早上喝牛奶。",
+    "pinyin": "Wǒ zǎoshang hē niúnǎi.",
+    "english": "I drink milk in the morning."
+  },
+  {
+    "target": "丈夫",
+    "chinese": "她的丈夫是老师。",
+    "pinyin": "Tā de zhàngfu shì lǎoshī.",
+    "english": "Her husband is a teacher."
+  },
+  {
+    "target": "找",
+    "chinese": "我在找手机。",
+    "pinyin": "Wǒ zài zhǎo shǒujī.",
+    "english": "I am looking for my phone."
+  },
+  {
+    "target": "着",
+    "chinese": "门开着。",
+    "pinyin": "Mén kāi zhe.",
+    "english": "The door is open."
+  },
+  {
+    "target": "真",
+    "chinese": "你真好！",
+    "pinyin": "Nǐ zhēn hǎo!",
+    "english": "You are so nice!"
+  },
+  {
+    "target": "正在",
+    "chinese": "他正在学习。",
+    "pinyin": "Tā zhèngzài xuéxí.",
+    "english": "He is studying right now."
+  },
+  {
+    "target": "知道",
+    "chinese": "我不知道。",
+    "pinyin": "Wǒ bù zhīdào.",
+    "english": "I do not know."
+  },
+  {
+    "target": "准备",
+    "chinese": "我准备好了。",
+    "pinyin": "Wǒ zhǔnbèi hǎo le.",
+    "english": "I am ready."
+  },
+  {
+    "target": "走",
+    "chinese": "我们走吧。",
+    "pinyin": "Wǒmen zǒu ba.",
+    "english": "Let us go."
+  },
+  {
+    "target": "最",
+    "chinese": "我最喜欢茶。",
+    "pinyin": "Wǒ zuì xǐhuan chá.",
+    "english": "I like tea the most."
+  },
+  {
+    "target": "左边",
+    "chinese": "学校在左边。",
+    "pinyin": "Xuéxiào zài zuǒbiān.",
+    "english": "The school is on the left."
+  },
+  {
+    "target": "得",
+    "chinese": "你说得很好。",
+    "pinyin": "Nǐ shuō de hěn hǎo.",
+    "english": "You speak very well."
+  },
+  {
+    "target": "过",
+    "chinese": "我去过北京。",
+    "pinyin": "Wǒ qù guo Běijīng.",
+    "english": "I have been to Beijing."
+  },
+  {
+    "target": "爱",
+    "chinese": "我爱我的家。",
+    "pinyin": "Wǒ ài wǒ de jiā.",
+    "english": "I love my family."
+  },
+  {
+    "target": "北京",
+    "chinese": "我明天去北京。",
+    "pinyin": "Wǒ míngtiān qù Běijīng.",
+    "english": "I am going to Beijing tomorrow."
+  },
+  {
+    "target": "爸爸",
+    "chinese": "爸爸在看书。",
+    "pinyin": "Bàba zài kàn shū.",
+    "english": "Dad is reading a book."
+  },
+  {
+    "target": "不客气",
+    "chinese": "谢谢你！不客气！",
+    "pinyin": "Xièxie nǐ! Bú kèqi!",
+    "english": "Thank you! You're welcome!"
+  },
+  {
+    "target": "茶",
+    "chinese": "我想喝一点茶。",
+    "pinyin": "Wǒ xiǎng hē yìdiǎn chá.",
+    "english": "I'd like a little tea."
+  },
+  {
+    "target": "出租车",
+    "chinese": "我们坐出租车去吧。",
+    "pinyin": "Wǒmen zuò chūzūchē qù ba.",
+    "english": "Let's go by taxi."
+  },
+  {
+    "target": "打电话",
+    "chinese": "我晚上给妈妈打电话。",
+    "pinyin": "Wǒ wǎnshang gěi māma dǎ diànhuà.",
+    "english": "I call Mom in the evening."
+  },
+  {
+    "target": "电脑",
+    "chinese": "这台电脑是新的。",
+    "pinyin": "Zhè tái diànnǎo shì xīn de.",
+    "english": "This computer is new."
+  },
+  {
+    "target": "电视",
+    "chinese": "我们晚上看电视。",
+    "pinyin": "Wǒmen wǎnshang kàn diànshì.",
+    "english": "We watch TV in the evening."
+  },
+  {
+    "target": "电影",
+    "chinese": "星期六我们看电影。",
+    "pinyin": "Xīngqīliù wǒmen kàn diànyǐng.",
+    "english": "We watch a movie on Saturday."
+  },
+  {
+    "target": "读",
+    "chinese": "请你读这个字。",
+    "pinyin": "Qǐng nǐ dú zhège zì.",
+    "english": "Please read this character."
+  },
+  {
+    "target": "多少",
+    "chinese": "这件衣服多少钱？",
+    "pinyin": "Zhè jiàn yīfu duōshao qián?",
+    "english": "How much does this clothing cost?"
+  },
+  {
+    "target": "儿子",
+    "chinese": "他有一个儿子。",
+    "pinyin": "Tā yǒu yí ge érzi.",
+    "english": "He has a son."
+  },
+  {
+    "target": "饭店",
+    "chinese": "饭店在学校旁边。",
+    "pinyin": "Fàndiàn zài xuéxiào pángbiān.",
+    "english": "The restaurant is beside the school."
+  },
+  {
+    "target": "飞机",
+    "chinese": "他坐飞机去中国。",
+    "pinyin": "Tā zuò fēijī qù Zhōngguó.",
+    "english": "He goes to China by plane."
+  },
+  {
+    "target": "工作",
+    "chinese": "她今天要工作。",
+    "pinyin": "Tā jīntiān yào gōngzuò.",
+    "english": "She needs to work today."
+  },
+  {
+    "target": "汉语",
+    "chinese": "我每天学汉语。",
+    "pinyin": "Wǒ měitiān xué Hànyǔ.",
+    "english": "I study Chinese every day."
+  },
+  {
+    "target": "喝",
+    "chinese": "你要喝水吗？",
+    "pinyin": "Nǐ yào hē shuǐ ma?",
+    "english": "Do you want to drink water?"
+  },
+  {
+    "target": "会",
+    "chinese": "我会说一点汉语。",
+    "pinyin": "Wǒ huì shuō yìdiǎn Hànyǔ.",
+    "english": "I can speak a little Chinese."
+  },
+  {
+    "target": "几",
+    "chinese": "你有几本书？",
+    "pinyin": "Nǐ yǒu jǐ běn shū?",
+    "english": "How many books do you have?"
+  },
+  {
+    "target": "今天",
+    "chinese": "我今天很忙。",
+    "pinyin": "Wǒ jīntiān hěn máng.",
+    "english": "I am busy today."
+  },
+  {
+    "target": "老师",
+    "chinese": "老师在教室里。",
+    "pinyin": "Lǎoshī zài jiàoshì lǐ.",
+    "english": "The teacher is in the classroom."
+  },
+  {
+    "target": "冷",
+    "chinese": "北京今天很冷。",
+    "pinyin": "Běijīng jīntiān hěn lěng.",
+    "english": "Beijing is cold today."
+  },
+  {
+    "target": "妈妈",
+    "chinese": "妈妈喜欢喝茶。",
+    "pinyin": "Māma xǐhuan hē chá.",
+    "english": "Mom likes drinking tea."
+  },
+  {
+    "target": "买",
+    "chinese": "我想买两个苹果。",
+    "pinyin": "Wǒ xiǎng mǎi liǎng ge píngguǒ.",
+    "english": "I want to buy two apples."
+  },
+  {
+    "target": "米饭",
+    "chinese": "晚饭我吃米饭。",
+    "pinyin": "Wǎnfàn wǒ chī mǐfàn.",
+    "english": "I eat rice for dinner."
+  },
+  {
+    "target": "明天",
+    "chinese": "我们明天见面。",
+    "pinyin": "Wǒmen míngtiān jiànmiàn.",
+    "english": "We will meet tomorrow."
+  },
+  {
+    "target": "朋友",
+    "chinese": "朋友在外面等我。",
+    "pinyin": "Péngyou zài wàimiàn děng wǒ.",
+    "english": "My friend is waiting outside."
+  },
+  {
+    "target": "苹果",
+    "chinese": "我有一个红苹果。",
+    "pinyin": "Wǒ yǒu yí ge hóng píngguǒ.",
+    "english": "I have a red apple."
+  },
+  {
+    "target": "请",
+    "chinese": "请进来坐。",
+    "pinyin": "Qǐng jìnlai zuò.",
+    "english": "Please come in and sit down."
+  },
+  {
+    "target": "去",
+    "chinese": "你想去哪儿？",
+    "pinyin": "Nǐ xiǎng qù nǎr?",
+    "english": "Where do you want to go?"
+  },
+  {
+    "target": "认识",
+    "chinese": "我认识那位老师。",
+    "pinyin": "Wǒ rènshi nà wèi lǎoshī.",
+    "english": "I know that teacher."
+  },
+  {
+    "target": "商店",
+    "chinese": "商店在前面。",
+    "pinyin": "Shāngdiàn zài qiánmiàn.",
+    "english": "The shop is ahead."
+  },
+  {
+    "target": "什么",
+    "chinese": "你在做什么？",
+    "pinyin": "Nǐ zài zuò shénme?",
+    "english": "What are you doing?"
+  },
+  {
+    "target": "水",
+    "chinese": "这个水很冷。",
+    "pinyin": "Zhège shuǐ hěn lěng.",
+    "english": "This water is cold."
+  },
+  {
+    "target": "水果",
+    "chinese": "我喜欢吃水果。",
+    "pinyin": "Wǒ xǐhuan chī shuǐguǒ.",
+    "english": "I like eating fruit."
+  },
+  {
+    "target": "睡觉",
+    "chinese": "弟弟在睡觉。",
+    "pinyin": "Dìdi zài shuìjiào.",
+    "english": "My little brother is sleeping."
+  },
+  {
+    "target": "学校",
+    "chinese": "学校离这儿不远。",
+    "pinyin": "Xuéxiào lí zhèr bù yuǎn.",
+    "english": "The school is not far from here."
+  },
+  {
+    "target": "学习",
+    "chinese": "我们一起学习。",
+    "pinyin": "Wǒmen yìqǐ xuéxí.",
+    "english": "We study together."
+  },
+  {
+    "target": "下雨",
+    "chinese": "外面正在下雨。",
+    "pinyin": "Wàimiàn zhèngzài xiàyǔ.",
+    "english": "It's raining outside."
+  },
+  {
+    "target": "现在",
+    "chinese": "我现在在家。",
+    "pinyin": "Wǒ xiànzài zài jiā.",
+    "english": "I am at home now."
+  },
+  {
+    "target": "医院",
+    "chinese": "医院在那边。",
+    "pinyin": "Yīyuàn zài nàbian.",
+    "english": "The hospital is over there."
+  },
+  {
+    "target": "衣服",
+    "chinese": "这件衣服太贵了。",
+    "pinyin": "Zhè jiàn yīfu tài guì le.",
+    "english": "These clothes are too expensive."
+  },
+  {
+    "target": "中国",
+    "chinese": "我想去中国学习。",
+    "pinyin": "Wǒ xiǎng qù Zhōngguó xuéxí.",
+    "english": "I want to study in China."
+  },
+  {
+    "target": "昨天",
+    "chinese": "昨天我看了电影。",
+    "pinyin": "Zuótiān wǒ kàn le diànyǐng.",
+    "english": "I watched a movie yesterday."
+  },
+  {
+    "target": "比",
+    "chinese": "今天比昨天冷。",
+    "pinyin": "Jīntiān bǐ zuótiān lěng.",
+    "english": "Today is colder than yesterday."
+  },
+  {
+    "target": "公共汽车",
+    "chinese": "我们坐公共汽车去。",
+    "pinyin": "Wǒmen zuò gōnggòng qìchē qù.",
+    "english": "We go by bus."
+  },
+  {
+    "target": "哥哥",
+    "chinese": "哥哥在房间里。",
+    "pinyin": "Gēge zài fángjiān lǐ.",
+    "english": "My older brother is in the room."
+  },
+  {
+    "target": "考试",
+    "chinese": "明天有汉语考试。",
+    "pinyin": "Míngtiān yǒu Hànyǔ kǎoshì.",
+    "english": "There is a Chinese exam tomorrow."
+  },
+  {
+    "target": "可以",
+    "chinese": "我可以坐这儿吗？",
+    "pinyin": "Wǒ kěyǐ zuò zhèr ma?",
+    "english": "May I sit here?"
+  },
+  {
+    "target": "离",
+    "chinese": "饭店离这里远吗？",
+    "pinyin": "Fàndiàn lí zhèlǐ yuǎn ma?",
+    "english": "Is the restaurant far from here?"
+  },
+  {
+    "target": "旅游",
+    "chinese": "我喜欢去中国旅游。",
+    "pinyin": "Wǒ xǐhuan qù Zhōngguó lǚyóu.",
+    "english": "I like traveling to China."
+  },
+  {
+    "target": "每",
+    "chinese": "我每天都喝茶。",
+    "pinyin": "Wǒ měitiān dōu hē chá.",
+    "english": "I drink tea every day."
+  },
+  {
+    "target": "门",
+    "chinese": "请关上门。",
+    "pinyin": "Qǐng guān shàng mén.",
+    "english": "Please close the door."
+  },
+  {
+    "target": "面条",
+    "chinese": "中午我想吃面条。",
+    "pinyin": "Zhōngwǔ wǒ xiǎng chī miàntiáo.",
+    "english": "I want noodles for lunch."
+  },
+  {
+    "target": "跑步",
+    "chinese": "他早上喜欢跑步。",
+    "pinyin": "Tā zǎoshang xǐhuan pǎobù.",
+    "english": "He likes running in the morning."
+  },
+  {
+    "target": "时间",
+    "chinese": "明天你有时间吗？",
+    "pinyin": "Míngtiān nǐ yǒu shíjiān ma?",
+    "english": "Do you have time tomorrow?"
+  },
+  {
+    "target": "天气",
+    "chinese": "今天天气不错。",
+    "pinyin": "Jīntiān tiānqì búcuò.",
+    "english": "The weather is nice today."
+  },
+  {
+    "target": "为什么",
+    "chinese": "你为什么喜欢汉语？",
+    "pinyin": "Nǐ wèishénme xǐhuan Hànyǔ?",
+    "english": "Why do you like Chinese?"
+  },
+  {
+    "target": "一起",
+    "chinese": "我们一起去商店。",
+    "pinyin": "Wǒmen yìqǐ qù shāngdiàn.",
+    "english": "Let's go to the shop together."
+  },
+  {
+    "target": "再",
+    "chinese": "明天我们再说。",
+    "pinyin": "Míngtiān wǒmen zài shuō.",
+    "english": "Let's discuss it tomorrow."
+  },
+  {
+    "target": "准备",
+    "chinese": "我在准备考试。",
+    "pinyin": "Wǒ zài zhǔnbèi kǎoshì.",
+    "english": "I am preparing for the exam."
+  },
+  {
+    "target": "正在",
+    "chinese": "他正在看电影。",
+    "pinyin": "Tā zhèngzài kàn diànyǐng.",
+    "english": "He is watching a movie right now."
+  },
+  {
+    "target": "问题",
+    "chinese": "你有问题吗？",
+    "pinyin": "Nǐ yǒu wèntí ma?",
+    "english": "Do you have any questions?"
+  },
+  {
+    "target": "饭店",
+    "chinese": "我和朋友在饭店吃饭。",
+    "pinyin": "Wǒ hé péngyou zài fàndiàn chī fàn.",
+    "english": "My friend and I are eating in a restaurant."
+  },
+  {
+    "target": "工作",
+    "chinese": "你在哪儿工作？",
+    "pinyin": "Nǐ zài nǎr gōngzuò?",
+    "english": "Where do you work?"
+  },
+  {
+    "target": "早上",
+    "chinese": "我早上七点起床。",
+    "pinyin": "Wǒ zǎoshang qī diǎn qǐchuáng.",
+    "english": "I get up at seven in the morning."
+  }
+]
